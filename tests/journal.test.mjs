@@ -84,9 +84,10 @@ test('concurrent note writes preserve both notes', async () => {
 });
 test('complete requires actual source notes and all review criteria', async () => {
   const payload = { lessonId: '-5oNwNoU3Z0', title: 'Source note test fixture', content: 'Test only, not educational content.', kind: 'arshia', startSeconds: 0, endSeconds: 10, topicIds: [], images: [] };
+  const lesson = fixture.lessons.find(item => item.id === payload.lessonId);
   assert.equal((await request('/api/notes', 'POST', payload)).status, 201);
   assert.equal((await request('/api/lessons/-5oNwNoU3Z0', 'PATCH', { status: 'completed', watchedSeconds: 10 })).status, 400);
-  const response = await request('/api/lessons/-5oNwNoU3Z0', 'PATCH', { status: 'completed', watchedSeconds: 1020, coverage: { transcript: true, audio: true, visuals: true, verified: true } });
+  const response = await request('/api/lessons/-5oNwNoU3Z0', 'PATCH', { status: 'completed', watchedSeconds: lesson.durationSeconds, coverage: { transcript: true, audio: true, visuals: true, verified: true } });
   assert.equal(response.status, 200); assert.equal((await response.json()).status, 'completed');
 });
 test('a direct atomic data replacement streams to connected browsers', async () => {
