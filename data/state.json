@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T22:34:44.777Z",
+  "updatedAt": "2026-11-21T22:43:46.642Z",
   "catalogVerifiedAt": "2026-11-21T21:41:32.058Z",
   "channel": {
     "title": "Trade city pro",
@@ -183,23 +183,23 @@
       "index": 4,
       "order": 4,
       "title": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری",
-      "durationSeconds": 2280,
-      "durationApproximate": true,
+      "durationSeconds": 2284,
+      "durationApproximate": false,
       "url": "https://www.youtube.com/watch?v=SiguKsCDAq8",
-      "status": "not_started",
-      "watchedSeconds": 0,
-      "summary": "",
+      "status": "completed",
+      "watchedSeconds": 2284,
+      "summary": "درس داو تئوری از ۰۰:۰۰ تا ۳۸:۰۴ با زیرنویس خودکار اصلی فارسی، خوانش مستقل گفتار و فریم‌های ۱۰۸۰پی مرور شد. آرشیا سه ردهٔ روند، فازهای انباشت تا توزیع، تأیید حجم و تشخیص سقف و کف را روی نمودار توضیح می‌دهد. نمونه‌ها شکست بازه‌ها، محل ورود و حد ضرر، خروج با تغییر ساختار، جابه‌جایی پله‌ای حد ضرر و اولویت تایم‌فریم بالاتر را پوشش می‌دهند. مقایسهٔ مقیاس خطی و لگاریتمی ثبت شد. مبنای دقیق مثال ۵۰ درصد و معیار عمومی تأیید شکست در دو یادداشت ابهام مشخص شده‌اند.",
       "topicIds": [
         "strategy"
       ],
       "topicAssignment": "title_only",
       "coverage": {
-        "transcript": false,
-        "audio": false,
-        "visuals": false,
-        "verified": false
+        "transcript": true,
+        "audio": true,
+        "visuals": true,
+        "verified": true
       },
-      "updatedAt": "2026-11-21T21:41:32.058Z"
+      "updatedAt": "2026-11-21T22:43:46.629Z"
     },
     {
       "id": "GvReDYmaQeY",
@@ -4801,17 +4801,1487 @@
       ],
       "images": [],
       "createdAt": "2026-11-21T22:32:37.880Z"
+    },
+    {
+      "id": "728f2bc0-579b-43eb-8397-02c254b3a070",
+      "lessonId": "SiguKsCDAq8",
+      "title": "هدف مرور داو تئوری",
+      "content": "این ویدیو جمع‌بندی یک‌جلسه‌ای روش است. آرشیا به مجموعهٔ مفصل‌تر خودش ارجاع می‌دهد و کاربرد داو تئوری را در کنار حمایت و مقاومت، مدیریت سرمایه و نسبت ریسک به بازده مطرح می‌کند.",
+      "startSeconds": 0,
+      "endSeconds": 76,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "strategy"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:35:34.298Z"
+    },
+    {
+      "id": "60e0a5e3-4e5a-4fc6-a1a6-4aa0f42ec936",
+      "lessonId": "SiguKsCDAq8",
+      "title": "فرض ادامهٔ روند و تأیید حجم",
+      "content": "آرشیا ادامهٔ روند صعودی یا نزولی را فرض اولیه می‌گیرد تا شواهد بازگشت دیده شود. حجم را تأییدکنندهٔ روند می‌داند و پیش از ورود به مثال، از سه ردهٔ حرکت بازار و سه فاز هر چرخه صحبت می‌کند.",
+      "startSeconds": 76,
+      "endSeconds": 128,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "volume"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:35:34.305Z"
+    },
+    {
+      "id": "bef7adfd-be63-480a-9094-5de26e9d4220",
+      "lessonId": "SiguKsCDAq8",
+      "title": "سه ردهٔ حرکت در نمودار هفتگی",
+      "content": "روی نمودار هفتگی BNB، آرشیا حرکت اصلی را Primary Trend و حرکت واکنشی در برابر حرکت اصلی را Secondary Trend یا Reaction می‌نامد. نوسان کوچک‌تر Minor Trend است. آرشیا می‌گوید در برداشت او از داو، تایم‌فریم زیر هفتگی نویز است و می‌گوید خودش این تقسیم‌بندی را به تایم‌فریم‌های پایین‌تر هم تعمیم داده است.",
+      "startSeconds": 128,
+      "endSeconds": 227,
+      "kind": "arshia",
+      "topicIds": [
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-bef7adfd-be63-480a-9094-5de26e9d4220-0.png",
+          "caption": "02:50 · نمای کلی BNB هفتگی برای روند اصلی",
+          "seconds": 170
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-bef7adfd-be63-480a-9094-5de26e9d4220-1.png",
+          "caption": "03:15 · اشاره به واکنش پس از جهش",
+          "seconds": 195
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-bef7adfd-be63-480a-9094-5de26e9d4220-2.png",
+          "caption": "03:37 · نمای نزدیک‌تر از نوسان‌های پس از جهش",
+          "seconds": 217
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:20.944Z"
+    },
+    {
+      "id": "86eb9836-9537-4393-a45c-61b404d49e04",
+      "lessonId": "SiguKsCDAq8",
+      "title": "عبور از سقف روند اصلی",
+      "content": "در مثال صعودی، واکنش پس از موج اصلی می‌تواند قیمت را به محدودهٔ سقف قبلی برگرداند. آرشیا ازسرگیری موج اصلی را از زمان عبور از سقف موج اصلی قبلی در نظر می‌گیرد و اشاره می‌کند منطق در جهت مقابل قرینه است.",
+      "startSeconds": 227,
+      "endSeconds": 261,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-86eb9836-9537-4393-a45c-61b404d49e04-0.png",
+          "caption": "03:52 · مکان‌نما روی سقف قبلی در نمای هفتگی",
+          "seconds": 232
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-86eb9836-9537-4393-a45c-61b404d49e04-1.png",
+          "caption": "04:08 · بازگشت به نمای وسیع برای توضیح شروع موج اصلی",
+          "seconds": 248
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:23.619Z"
+    },
+    {
+      "id": "98705683-6d2b-4dde-83c5-0001649b0cc0",
+      "lessonId": "SiguKsCDAq8",
+      "title": "سقف‌ها و کف‌ها در دو مقیاس",
+      "content": "در نمای کلی BNB، دنبالهٔ سقف‌های بالاتر و کف‌های بالاتر ساختار صعودی است. با تمرکز بر یک حرکت واکنشی، دنبالهٔ سقف‌های پایین‌تر و کف‌های پایین‌تر ساختار نزولی را نشان می‌دهد. هر دو را در یک نمودار با دو دامنهٔ بررسی توضیح می‌دهد.",
+      "startSeconds": 261,
+      "endSeconds": 328,
+      "kind": "arshia",
+      "topicIds": [
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-98705683-6d2b-4dde-83c5-0001649b0cc0-0.png",
+          "caption": "04:49 · نمای دور برای مقایسهٔ کف‌های روند اصلی",
+          "seconds": 289
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-98705683-6d2b-4dde-83c5-0001649b0cc0-1.png",
+          "caption": "05:11 · نمای مثال حرکت واکنشی داخل نمودار",
+          "seconds": 311
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:24.445Z"
+    },
+    {
+      "id": "2083e349-ade6-40af-b314-c66786ade619",
+      "lessonId": "SiguKsCDAq8",
+      "title": "تغییر مقیاس لگاریتمی و خط روند",
+      "content": "آرشیا نمایش لگاریتمی را برای کار خودش ترجیح می‌دهد. روی همان BNB هفتگی با خاموش‌کردن آن بخش قدیمی نمودار از نظر ارتفاع فشرده می‌شود و با روشن‌کردن دوباره خواناتر است. او جلوتر بودن شکست خط و ورود یا خروج را به کاربرد این مقیاس در روش خودش نسبت می‌دهد.",
+      "startSeconds": 328,
+      "endSeconds": 353,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-2083e349-ade6-40af-b314-c66786ade619-0.png",
+          "caption": "05:37 · BNB هفتگی پیش از تغییر مقیاس",
+          "seconds": 337
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-2083e349-ade6-40af-b314-c66786ade619-1.png",
+          "caption": "05:42 · فشرده‌شدن تاریخچه در مقیاس خطی",
+          "seconds": 342
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-2083e349-ade6-40af-b314-c66786ade619-2.png",
+          "caption": "05:47 · بازگشت به نمای لگاریتمی",
+          "seconds": 347
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:25.369Z"
+    },
+    {
+      "id": "d4137928-be23-4cac-a62a-cff86b84f57a",
+      "lessonId": "SiguKsCDAq8",
+      "title": "نوسان کوچک و شکست باکس",
+      "content": "اگر ماهانه را روند اصلی و هفتگی را واکنشی بگیرد، نوسان روزانه را کوچک‌تر می‌بیند. در بیت‌کوین روزانه دو محدودهٔ مستطیلی را نشان می‌دهد. خروج از کف محدوده نمونهٔ بررسی شورت و خروج از سقف نمونهٔ بررسی لانگ است.",
+      "startSeconds": 353,
+      "endSeconds": 430,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-d4137928-be23-4cac-a62a-cff86b84f57a-0.png",
+          "caption": "06:30 · باکس کوچک و افت بعد از عبور از کف",
+          "seconds": 390
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-d4137928-be23-4cac-a62a-cff86b84f57a-1.png",
+          "caption": "06:58 · رسم باکس دوم پس از ریزش",
+          "seconds": 418
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-d4137928-be23-4cac-a62a-cff86b84f57a-2.png",
+          "caption": "07:05 · نمای باکس دوم و ادامهٔ حرکت پس از خروج از سقف",
+          "seconds": 425
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:26.579Z"
+    },
+    {
+      "id": "60665b87-8342-4cb4-ae83-62ed195f6772",
+      "lessonId": "SiguKsCDAq8",
+      "title": "باکس انباشت پس از افت تند",
+      "content": "آرشیا سه فاز را انباشت، حرکت رونددار و توزیع می‌نامد. در نمونهٔ انباشت، بعد از افت تند قیمت به محدوده‌ای افقی می‌رسد، حجم در باکس کاهش می‌یابد و در شکست دوباره بالا می‌رود. او خبرهای منفی و فروش هیجانی در برابر خرید تدریجی را به‌عنوان روایت رفتاری این فاز توضیح می‌دهد.",
+      "startSeconds": 430,
+      "endSeconds": 533,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-60665b87-8342-4cb4-ae83-62ed195f6772-0.png",
+          "caption": "07:39 · افت تند پیش از محدودهٔ پایین",
+          "seconds": 459
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-60665b87-8342-4cb4-ae83-62ed195f6772-1.png",
+          "caption": "07:54 · ترسیم شیب نزولی حجم زیر محدوده",
+          "seconds": 474
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-60665b87-8342-4cb4-ae83-62ed195f6772-2.png",
+          "caption": "08:03 · نمای محدوده و حرکت پس از شکست",
+          "seconds": 483
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:27.660Z"
+    },
+    {
+      "id": "5fccbb0f-022e-449b-b225-d5ba050b3d90",
+      "lessonId": "SiguKsCDAq8",
+      "title": "شکست انباشت و حرکت صعودی",
+      "content": "آرشیا بعد از خروج قیمت از باکس پایین، افزایش مشارکت و خرید کسانی را که از حرکت جا مانده‌اند توصیف می‌کند. در نمودار، جهش از محدوده به حرکت جهت‌دار وصل می‌شود و در نهایت به باکس بالاتر می‌رسد.",
+      "startSeconds": 533,
+      "endSeconds": 558,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-5fccbb0f-022e-449b-b225-d5ba050b3d90-0.png",
+          "caption": "09:02 · باکس پایین و ابتدای جهش",
+          "seconds": 542
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-5fccbb0f-022e-449b-b225-d5ba050b3d90-1.png",
+          "caption": "09:13 · نمای گسترده تا محدودهٔ بالاتر",
+          "seconds": 553
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:28.282Z"
+    },
+    {
+      "id": "b3174883-4336-475c-b274-c65d39cb2ecc",
+      "lessonId": "SiguKsCDAq8",
+      "title": "توزیع بعد از رشد تند",
+      "content": "در نمونهٔ بیت‌کوین روزانه، پس از صعود تند، قیمت در باکس بالایی رفت‌وبرگشت می‌کند و حجم داخل محدوده رو به کاهش است. آرشیا خبرهای خوش، ورود تازه‌کارها و خروج تدریجی دارندگان قبلی را به‌عنوان توضیح رفتاری مثال می‌زند. شکست کف باکس و افت بعد از آن را نشان می‌دهد و کوتاه‌تر بودن توزیع نسبت به انباشت را گرایش احتمالی می‌داند.",
+      "startSeconds": 558,
+      "endSeconds": 678,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-b3174883-4336-475c-b274-c65d39cb2ecc-0.png",
+          "caption": "09:23 · رشد تند تا باکس بالایی",
+          "seconds": 563
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-b3174883-4336-475c-b274-c65d39cb2ecc-1.png",
+          "caption": "09:30 · خط راهنما روی کاهش حجم باکس",
+          "seconds": 570
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-b3174883-4336-475c-b274-c65d39cb2ecc-2.png",
+          "caption": "11:10 · باکس بالا و افت بعد از شکست کف",
+          "seconds": 670
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:29.690Z"
+    },
+    {
+      "id": "e418566c-9c4d-4b97-adbe-7a58cc3ab32d",
+      "lessonId": "SiguKsCDAq8",
+      "title": "چرخهٔ فازها و اهمیت تایم‌فریم",
+      "content": "آرشیا توالی انباشت، حرکت و تخلیه را در چند بخش تاریخ بیت‌کوین مرور می‌کند. می‌گوید این الگو را در تایم‌فریم‌های مختلف می‌توان دید و به مشاهدهٔ آن در تایم بسیار کوچک وزن کمتری می‌دهد.",
+      "startSeconds": 678,
+      "endSeconds": 724,
+      "kind": "arshia",
+      "topicIds": [
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-e418566c-9c4d-4b97-adbe-7a58cc3ab32d-0.png",
+          "caption": "11:36 · نمای کنار همِ باکس پایین، موج و باکس بالا",
+          "seconds": 696
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-e418566c-9c4d-4b97-adbe-7a58cc3ab32d-1.png",
+          "caption": "11:49 · نمای دورتر از تاریخچهٔ بیت‌کوین",
+          "seconds": 709
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:30.157Z"
+    },
+    {
+      "id": "c2429d3c-7d2f-4a8e-ada6-f957dd20f4aa",
+      "lessonId": "SiguKsCDAq8",
+      "title": "باکس باز بیت‌کوین و تأیید جهت",
+      "content": "برای محدودهٔ سمت راست نمودار بیت‌کوین در زمان ضبط، آرشیا انباشت را فرض موقت می‌گیرد. لبهٔ بالا را با توجه به پیوت و مقاومت انتخاب می‌کند. در ۱۲:۲۵ باکس تا حدود ۴۸٫۳ هزار دلار رسم شده است. برای حجم، افت میانگین را در برابر جهش‌های منفرد می‌سنجد. شکست سقف را تأیید انباشت و شکست کف را سناریوی ادامهٔ نزولی باکس می‌داند.",
+      "startSeconds": 724,
+      "endSeconds": 776,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-c2429d3c-7d2f-4a8e-ada6-f957dd20f4aa-0.png",
+          "caption": "12:25 · لبهٔ بالایی باکس باز نزدیک ۴۸٫۳ هزار دلار",
+          "seconds": 745
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-c2429d3c-7d2f-4a8e-ada6-f957dd20f4aa-1.png",
+          "caption": "12:37 · ترسیم کاهش حجم زیر باکس",
+          "seconds": 757
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-c2429d3c-7d2f-4a8e-ada6-f957dd20f4aa-2.png",
+          "caption": "12:45 · نمایش سناریوی فرضی عبور از سقف",
+          "seconds": 765
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:31.024Z"
+    },
+    {
+      "id": "78cde391-172c-4a64-be75-ead9760e3a89",
+      "lessonId": "SiguKsCDAq8",
+      "title": "هزینهٔ صبر برای تأیید",
+      "content": "آرشیا مدیریت سرمایه و نسبت ریسک به بازده را جزء روش می‌داند. توضیح می‌دهد که با صبر برای تأیید، ممکن است ابتدای حرکت و گاهی انتهای آن از دست برود. گرفتن بخش میانی حرکت را نتیجهٔ این انتخاب می‌داند و از یک‌سوم‌ها برای تقریب استفاده می‌کند.",
+      "startSeconds": 776,
+      "endSeconds": 837,
+      "kind": "arshia",
+      "topicIds": [
+        "strategy",
+        "risk"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:37:58.941Z"
+    },
+    {
+      "id": "08ae66ef-8831-4c9e-a2aa-e8651de9b2fe",
+      "lessonId": "SiguKsCDAq8",
+      "title": "اهمیت ۵۰ درصد در توضیح مدرس",
+      "content": "آرشیا به اهمیت ۵۰ درصد برای خواندن حرکت اشاره می‌کند و برای آن توضیح روان‌شناختی می‌دهد. روی نمودار، حرکت تاریخی بیت‌کوین را با ابزار سنجش مشخص می‌کند.",
+      "startSeconds": 837,
+      "endSeconds": 866,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-08ae66ef-8831-4c9e-a2aa-e8651de9b2fe-0.png",
+          "caption": "14:11 · ابزار سنجش روی حرکت تاریخی بیت‌کوین",
+          "seconds": 851
+        }
+      ],
+      "createdAt": "2026-11-21T22:37:59.567Z"
+    },
+    {
+      "id": "69ac5a09-fa2e-46e8-9d4a-c7d7107927dc",
+      "lessonId": "SiguKsCDAq8",
+      "title": "پیش‌نمایش ورود و خروج در بیت‌کوین هفتگی",
+      "content": "آرشیا ابتدا عبور از سقف قبلی را به‌عنوان محل ورود تاریخی مشخص می‌کند. در پیش‌نمایش، ابزار نمودار در ۱۵:۰۶ فاصلهٔ ۲۷۶٫۰۱٪ را تا خروجِ نمونه نشان می‌دهد. نحوهٔ تشخیص خروج در ۲۸:۵۹ تا ۲۹:۵۷ توضیح داده می‌شود.",
+      "startSeconds": 866,
+      "endSeconds": 922,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-69ac5a09-fa2e-46e8-9d4a-c7d7107927dc-0.png",
+          "caption": "14:51 · سقف مرجع در نمای بیت‌کوین هفتگی",
+          "seconds": 891
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-69ac5a09-fa2e-46e8-9d4a-c7d7107927dc-1.png",
+          "caption": "14:57 · کندل عبور از سقف مرجع",
+          "seconds": 897
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-69ac5a09-fa2e-46e8-9d4a-c7d7107927dc-2.png",
+          "caption": "15:06 · اندازه‌گیری نمونهٔ تاریخی بین ورود و خروج",
+          "seconds": 906
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:00.571Z"
+    },
+    {
+      "id": "ef1c216b-6b0f-443a-8d2f-b1090468fb86",
+      "lessonId": "SiguKsCDAq8",
+      "title": "دو وضعیت کاربردی و انباشت چهار‌ساعته",
+      "content": "آرشیا بحث معامله را به حرکت رونددار و محدوده‌های تراکم تقسیم می‌کند. پیش از مثال همراه روند، در بیت‌کوین چهارساعته ریزش تند، باکس، کاهش حجم داخل باکس و شکست آن را نشان می‌دهد.",
+      "startSeconds": 922,
+      "endSeconds": 999,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "volume",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-ef1c216b-6b0f-443a-8d2f-b1090468fb86-0.png",
+          "caption": "16:21 · مستطیل پس از ریزش تند",
+          "seconds": 981
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-ef1c216b-6b0f-443a-8d2f-b1090468fb86-1.png",
+          "caption": "16:29 · فلش روند حجم و نقطهٔ خروج از محدوده",
+          "seconds": 989
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:01.430Z"
+    },
+    {
+      "id": "a62906f5-fecb-4b7c-b32b-efd5749b1fbb",
+      "lessonId": "SiguKsCDAq8",
+      "title": "نام‌گذاری سقف و کف روی نمودار صعودی",
+      "content": "آرشیا روی نمودار چهارساعتهٔ بیت‌کوین سقف و کف را با H و L و سقف و کف بالاتر را با HH و HL مشخص می‌کند. بعد ساختار را چند موج جلوتر دنبال می‌کند و نشان می‌دهد که پذیرفتن یک نوسان کوچک به‌عنوان کف، محل تشخیص اولین کف پایین‌تر را تغییر می‌دهد.",
+      "startSeconds": 999,
+      "endSeconds": 1074,
+      "kind": "arshia",
+      "topicIds": [
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-a62906f5-fecb-4b7c-b32b-efd5749b1fbb-0.png",
+          "caption": "17:04 · ابتدای برچسب‌گذاری سقف",
+          "seconds": 1024
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-a62906f5-fecb-4b7c-b32b-efd5749b1fbb-1.png",
+          "caption": "17:23 · برچسب‌های H، L، HH و HL",
+          "seconds": 1043
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-a62906f5-fecb-4b7c-b32b-efd5749b1fbb-2.png",
+          "caption": "17:48 · نمای موج‌های بعدی و بررسی کف",
+          "seconds": 1068
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:02.631Z"
+    },
+    {
+      "id": "70efcddb-85bf-4a8a-a9cc-9878cc7411ee",
+      "lessonId": "SiguKsCDAq8",
+      "title": "ورود صعودی و حد ضرر اولیه",
+      "content": "در مثال بیت‌کوین، محل ورود لانگ را در کندل عبور از سقف قبلی نشان می‌دهد و حد ضرر اولیه را زیر کف قبلی می‌گذارد. در این مرحله هنوز قاعدهٔ خروج با سود را توضیح نداده است.",
+      "startSeconds": 1074,
+      "endSeconds": 1108,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-70efcddb-85bf-4a8a-a9cc-9878cc7411ee-0.png",
+          "caption": "18:08 · خط سقف قبلی و کندل نمونهٔ شکست",
+          "seconds": 1088
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-70efcddb-85bf-4a8a-a9cc-9878cc7411ee-1.png",
+          "caption": "18:16 · نمای فاصلهٔ ورود تا حد ضرر",
+          "seconds": 1096
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:03.503Z"
+    },
+    {
+      "id": "5b075c25-e2a9-4f1f-a1ad-ab0200ec8cc7",
+      "lessonId": "SiguKsCDAq8",
+      "title": "کف تازه پس از عبور از سقف تأیید می‌شود",
+      "content": "در محدودهٔ بین سقف و کف، آرشیا نوسان‌های داخلی را کف تازهٔ روند نمی‌گیرد. در مثال صعودی پس از بالاتر رفتن از سقف قبلی، کفِ حرکتِ میان دو سقف را تأیید می‌کند.",
+      "startSeconds": 1108,
+      "endSeconds": 1135,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-5b075c25-e2a9-4f1f-a1ad-ab0200ec8cc7-0.png",
+          "caption": "18:37 · خط افقی سقف مرجع و محدودهٔ پیش از شکست",
+          "seconds": 1117
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-5b075c25-e2a9-4f1f-a1ad-ab0200ec8cc7-1.png",
+          "caption": "18:45 · نمای کف مورد اشاره پس از تأیید سقف",
+          "seconds": 1125
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:04.294Z"
+    },
+    {
+      "id": "bfa45cb5-487e-43f5-abe3-58d7ed78db93",
+      "lessonId": "SiguKsCDAq8",
+      "title": "تکرار شکست و تغییر جای حد ضرر",
+      "content": "با شکل‌گیری سقف و کف بعدی در همان روند، دوباره شکست سقف را مبنای ورود و کف تأییدشده را مرجع حد ضرر می‌گیرد. در نمونهٔ بعدی سطح حد ضرر همراه با کف بالاتر می‌رود.",
+      "startSeconds": 1135,
+      "endSeconds": 1179,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-bfa45cb5-487e-43f5-abe3-58d7ed78db93-0.png",
+          "caption": "19:08 · شکست سقف مرجع در موج بعدی",
+          "seconds": 1148
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-bfa45cb5-487e-43f5-abe3-58d7ed78db93-1.png",
+          "caption": "19:33 · اندازه‌گیری حد ضرر زیر کف جدید",
+          "seconds": 1173
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:04.968Z"
+    },
+    {
+      "id": "e7b2eb40-002d-4f01-be00-7d9f5a381d41",
+      "lessonId": "SiguKsCDAq8",
+      "title": "حد ضرر با سایه و بازخوانی مقاومت",
+      "content": "آرشیا نمونه‌ای را نشان می‌دهد که در آن ورود با فرض شکست سقف به برخورد سایه با حد ضرر ختم می‌شود. سپس با قرار دادن خط مقاومت در سطح بالاتر، شکست معتبرِ مثال را روی کندلی دیرتر نشان می‌دهد و حد ضرر را زیر کف قبلی قرار می‌دهد.",
+      "startSeconds": 1179,
+      "endSeconds": 1216,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-e7b2eb40-002d-4f01-be00-7d9f5a381d41-0.png",
+          "caption": "19:49 · اندازه‌گیری ورودی که سایه حد ضررش را می‌زند",
+          "seconds": 1189
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-e7b2eb40-002d-4f01-be00-7d9f5a381d41-1.png",
+          "caption": "20:04 · جابجایی سطح مرجع به مقاومت بالاتر",
+          "seconds": 1204
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-e7b2eb40-002d-4f01-be00-7d9f5a381d41-2.png",
+          "caption": "20:11 · شکست بعدی و اندازه‌گیری روی سطح اصلاح‌شده",
+          "seconds": 1211
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:06.255Z"
+    },
+    {
+      "id": "45d7c83a-85e8-4acf-ae76-cf47907fab99",
+      "lessonId": "SiguKsCDAq8",
+      "title": "قرینهٔ نزولی؛ شکست کف و حد ضرر بالای سقف",
+      "content": "بعد از ارجاع کوتاه به مجموعهٔ مفصل، آرشیا روی همان تایم‌فریم ورود فروش را پس از شکستن کف قبلی و حد ضرر را بالای سقف قبلی نشان می‌دهد. در موج‌های بعدی مثال، جست‌وجوی کف و سقف پایین‌تر را تکرار می‌کند و منتظر نسبت ریسک به بازده مدنظر می‌ماند.",
+      "startSeconds": 1216,
+      "endSeconds": 1302,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-45d7c83a-85e8-4acf-ae76-cf47907fab99-0.png",
+          "caption": "20:59 · کف شکسته‌شده در مثال نزولی",
+          "seconds": 1259
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-45d7c83a-85e8-4acf-ae76-cf47907fab99-1.png",
+          "caption": "21:20 · تکرار ورود روی کف پایین‌تر",
+          "seconds": 1280
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-45d7c83a-85e8-4acf-ae76-cf47907fab99-2.png",
+          "caption": "21:32 · حرکت بعدی و سنجش ناحیهٔ حد ضرر",
+          "seconds": 1292
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:07.293Z"
+    },
+    {
+      "id": "56a907d6-bb34-4a6b-a7e7-3e2ba161aec7",
+      "lessonId": "SiguKsCDAq8",
+      "title": "توزیع ۱۵ دقیقه‌ای و شکست کف باکس",
+      "content": "آرشیا در بیت‌کوین ۱۵ دقیقه‌ای، تراکم زیر مقاومت را با کاهش حجم در باکس مقایسه می‌کند. پس از شکست کف و بالا رفتن حجم، مثال را توزیع می‌خواند. ورود نمونه را روی شکست کف و حد ضرر را بالاتر نشان می‌دهد.",
+      "startSeconds": 1302,
+      "endSeconds": 1354,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "volume",
+        "levels",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-56a907d6-bb34-4a6b-a7e7-3e2ba161aec7-0.png",
+          "caption": "22:07 · مستطیل زیر مقاومت و افت حجم درون محدوده",
+          "seconds": 1327
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-56a907d6-bb34-4a6b-a7e7-3e2ba161aec7-1.png",
+          "caption": "22:17 · شکست کف و افزایش حجم",
+          "seconds": 1337
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-56a907d6-bb34-4a6b-a7e7-3e2ba161aec7-2.png",
+          "caption": "22:29 · نمای بزرگ‌تر کندل شکست",
+          "seconds": 1349
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:39.040Z"
+    },
+    {
+      "id": "cc522aee-d13a-4d5c-923f-46ad8fd18a55",
+      "lessonId": "SiguKsCDAq8",
+      "title": "جهت‌های متوالی در تایم پایین",
+      "content": "پس از افت، آرشیا در همان تایم ۱۵ دقیقه‌ای عبور از یک سقف تازه را نمونهٔ لانگ و شکستن کف بعدی را نمونهٔ شورت می‌گیرد. حد ضرر شورت بالای سقف قبلی است. نتیجهٔ هر موقعیت به ادامهٔ حرکت و حد ضرر وابسته است.",
+      "startSeconds": 1354,
+      "endSeconds": 1389,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-cc522aee-d13a-4d5c-923f-46ad8fd18a55-0.png",
+          "caption": "22:44 · نمونهٔ عبور از سقف پس از افت",
+          "seconds": 1364
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-cc522aee-d13a-4d5c-923f-46ad8fd18a55-1.png",
+          "caption": "22:55 · نمونهٔ بازگشت زیر کف بعدی",
+          "seconds": 1375
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:39.724Z"
+    },
+    {
+      "id": "76b643a4-9e94-4242-9ebd-d9ff7f465c96",
+      "lessonId": "SiguKsCDAq8",
+      "title": "دوقلوی سقف و شرط ورود",
+      "content": "رسیدن دو تلاش خرید به حدود یک سقف مشترک، در تعبیر آرشیا نشانهٔ کم‌شدن قدرت صعود است. محل ورود شورت در نمونه زمانی است که کف میان دو تلاش شکسته شود.",
+      "startSeconds": 1389,
+      "endSeconds": 1428,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-76b643a4-9e94-4242-9ebd-d9ff7f465c96-0.png",
+          "caption": "23:16 · دو تلاش نزدیک به یک سقف",
+          "seconds": 1396
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-76b643a4-9e94-4242-9ebd-d9ff7f465c96-1.png",
+          "caption": "23:43 · سطح کف میانی و حرکت پس از عبور",
+          "seconds": 1423
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:40.501Z"
+    },
+    {
+      "id": "759c44e8-de29-45ad-88d8-970df5060e86",
+      "lessonId": "SiguKsCDAq8",
+      "title": "کف تقریباً دوقلو و کندل‌های کنار هم",
+      "content": "در مثال یک‌ساعته، آرشیا دو کندل کنار همِ مورد اشاره را در خواندن ساختار کنار می‌گذارد و رفتار بعدی را ملاک می‌گیرد. برای شکل تقریباً دوقلوی کف، بسته‌شدن کندل بالای سقف میانی را محل لانگ و زیر ساختار کف را محل حد ضرر نشان می‌دهد.",
+      "startSeconds": 1443,
+      "endSeconds": 1483,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "candles",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-759c44e8-de29-45ad-88d8-970df5060e86-0.png",
+          "caption": "24:20 · دو کندل مورد اشاره روی کف نمونه",
+          "seconds": 1460
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-759c44e8-de29-45ad-88d8-970df5060e86-1.png",
+          "caption": "24:34 · سنجش حد ضرر زیر ساختار",
+          "seconds": 1474
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-759c44e8-de29-45ad-88d8-970df5060e86-2.png",
+          "caption": "24:40 · نمای حرکت بعد از عبور از سطح",
+          "seconds": 1480
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:41.843Z"
+    },
+    {
+      "id": "84add6eb-4b1c-40e9-aa57-6c81c71ea43e",
+      "lessonId": "SiguKsCDAq8",
+      "title": "وقتی کف پیش از سقف پایین‌تر می‌شکند",
+      "content": "آرشیا دو طرح ترسیم می‌کند. در طرح Failure Swing ابتدا سقف پایین‌تر شکل می‌گیرد و بعد کف می‌شکند. در طرح Non-Failure Swing پس از سقف بالاتر، قیمت مستقیم کف پایین‌تر می‌سازد. در نمونهٔ دوم، آرشیا تا شکل‌گیری واکنش و شکسته‌شدن همان کف تازه صبر می‌کند.",
+      "startSeconds": 1489,
+      "endSeconds": 1559,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-84add6eb-4b1c-40e9-aa57-6c81c71ea43e-0.png",
+          "caption": "25:36 · طرح اول برای سقف پایین‌تر و شکست کف",
+          "seconds": 1536
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-84add6eb-4b1c-40e9-aa57-6c81c71ea43e-1.png",
+          "caption": "25:45 · دو طرح کنار هم برای مقایسهٔ ترتیب رخدادها",
+          "seconds": 1545
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-84add6eb-4b1c-40e9-aa57-6c81c71ea43e-2.png",
+          "caption": "25:56 · انطباق طرح دوم بر نمودار واقعی",
+          "seconds": 1556
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:42.749Z"
+    },
+    {
+      "id": "0c101901-5c32-4665-b136-87dfbde2b5f8",
+      "lessonId": "SiguKsCDAq8",
+      "title": "تأیید سقف پایین‌تر با شکست کف",
+      "content": "در مثال بعدی، پس از تشکیل سقف پایین‌تر، شکست کف مرجع ساختار نزولی را تأیید می‌کند. آرشیا سقف پایین‌تر را بعد از همین شکست مبنای تعیین حد ضرر بالای آن قرار می‌دهد و حالت صعودی را قرینهٔ این ترتیب می‌داند.",
+      "startSeconds": 1568,
+      "endSeconds": 1613,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-0c101901-5c32-4665-b136-87dfbde2b5f8-0.png",
+          "caption": "26:14 · سقف و کف مرجعِ بازگشت",
+          "seconds": 1574
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-0c101901-5c32-4665-b136-87dfbde2b5f8-1.png",
+          "caption": "26:25 · خطوط ساختار و محل کف مرجع",
+          "seconds": 1585
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-0c101901-5c32-4665-b136-87dfbde2b5f8-2.png",
+          "caption": "26:48 · اندازه‌گیری حد ضرر بالای سقف تأییدشده",
+          "seconds": 1608
+        }
+      ],
+      "createdAt": "2026-11-21T22:38:43.625Z"
+    },
+    {
+      "id": "0e79b509-a420-45d2-843b-ecea726edcdf",
+      "lessonId": "SiguKsCDAq8",
+      "title": "خروج بر اساس ساختار تایم هفتگی",
+      "content": "آرشیا به مثال هفتگی برمی‌گردد. پس از شکست سقف و ورود، حد ضرر اولیه زیر کف قبلی است و موقعیت با فرض ادامهٔ روند حفظ می‌شود. او یک اصلاح را نشان می‌دهد که در تایم پایین‌تر تند به نظر می‌رسد و توضیح می‌دهد خروج زودهنگام برای گرفتن قله چگونه بخش بعدی حرکت را از دست می‌دهد.",
+      "startSeconds": 1618,
+      "endSeconds": 1739,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-0e79b509-a420-45d2-843b-ecea726edcdf-0.png",
+          "caption": "27:26 · بازگشت به محل ورود در نمودار هفتگی",
+          "seconds": 1646
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-0e79b509-a420-45d2-843b-ecea726edcdf-1.png",
+          "caption": "27:55 · کندل اصلاحی مورد اشاره",
+          "seconds": 1675
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-0e79b509-a420-45d2-843b-ecea726edcdf-2.png",
+          "caption": "28:20 · جای همان حرکت نسبت به صعود بعدی",
+          "seconds": 1700
+        }
+      ],
+      "createdAt": "2026-11-21T22:39:12.012Z"
+    },
+    {
+      "id": "b007723c-7da9-4f96-88e9-0ed0a0bc2df8",
+      "lessonId": "SiguKsCDAq8",
+      "title": "ضعف صعود و خروج با حد ضرر بالاآمده",
+      "content": "در ادامهٔ مثال هفتگی، ناکامی در ثبت سقف بالاتر همراه با پایین رفتن قیمت از محدودهٔ کف، هشدار ضعف است. آرشیا فرصت ادامه را باز می‌گذارد و حد ضرر را زیر کف مورد اشاره بالا می‌آورد. کندل قرمز بعدی به سطح خروج می‌رسد. ابزار متحرکِ سنجش در ۲۹:۵۴ روی ۲۷۴٫۱۷٪ دیده می‌شود و عدد اندازه‌گیری پیش‌نمایش در ۱۵:۰۶ برابر ۲۷۶٫۰۱٪ است.",
+      "startSeconds": 1739,
+      "endSeconds": 1797,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-b007723c-7da9-4f96-88e9-0ed0a0bc2df8-0.png",
+          "caption": "29:03 · نمای دنبالهٔ صعودی پیش از ضعف",
+          "seconds": 1743
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-b007723c-7da9-4f96-88e9-0ed0a0bc2df8-1.png",
+          "caption": "29:39 · سطح کف برای حد ضرر تازه",
+          "seconds": 1779
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-b007723c-7da9-4f96-88e9-0ed0a0bc2df8-2.png",
+          "caption": "29:54 · عدد ۲۷۴٫۱۷٪ در ابزار سنجش پس از تنظیم نشانگر",
+          "seconds": 1794
+        }
+      ],
+      "createdAt": "2026-11-21T22:39:13.222Z"
+    },
+    {
+      "id": "0cda5a39-d711-4a89-aeaf-bb21afe75ff9",
+      "lessonId": "SiguKsCDAq8",
+      "title": "جابه‌جایی حد ضرر در همان تایم ورود",
+      "content": "در نمودار ۱۵ دقیقه‌ای Celer Network، آرشیا ورود و حد ضرر اولیه را نشان می‌دهد. با شکست هر سقف مرجع، حد ضرر را به زیر کف تأییدشدهٔ متناظر می‌آورد. نوسان جدید پیش از شکستن سقف، مرجع جابه‌جایی نمی‌شود. ادامهٔ نمودار نشان می‌دهد حد ضرر ۱۵ دقیقه‌ای در مثال به کجا می‌رسید.",
+      "startSeconds": 1797,
+      "endSeconds": 1873,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-0cda5a39-d711-4a89-aeaf-bb21afe75ff9-0.png",
+          "caption": "30:42 · سنجش ورود و حد ضرر اولیه در ۱۵ دقیقه",
+          "seconds": 1842
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-0cda5a39-d711-4a89-aeaf-bb21afe75ff9-1.png",
+          "caption": "31:01 · نمونهٔ بالا آوردن حد ضرر بعد از شکست بعدی",
+          "seconds": 1861
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-0cda5a39-d711-4a89-aeaf-bb21afe75ff9-2.png",
+          "caption": "31:12 · برگشت به سطحی که حد ضرر ۱۵ دقیقه‌ای داشت",
+          "seconds": 1872
+        }
+      ],
+      "createdAt": "2026-11-21T22:39:13.834Z"
+    },
+    {
+      "id": "194d746d-87ed-49da-85ed-6d037aeb2bf3",
+      "lessonId": "SiguKsCDAq8",
+      "title": "ورود ۱۵ دقیقه‌ای و دنبال‌کردن چهار‌ساعته",
+      "content": "در شیوهٔ شخصی آرشیا، ورود و حد ضرر اولیه از ۱۵ دقیقه گرفته می‌شود و پس از حرکت قیمت، مدیریت روند به چهار ساعت منتقل می‌شود. حد ضرر را پله‌ای زیر کف‌های تأییدشدهٔ چهار‌ساعته بالا می‌آورد. برای جابه‌جایی بعدی در مثال، منتظر بسته‌شدن کندل بالای محدودهٔ سقف می‌ماند.",
+      "startSeconds": 1873,
+      "endSeconds": 1919,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-194d746d-87ed-49da-85ed-6d037aeb2bf3-0.png",
+          "caption": "31:27 · نمای چهارساعتهٔ همان نماد",
+          "seconds": 1887
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-194d746d-87ed-49da-85ed-6d037aeb2bf3-1.png",
+          "caption": "31:40 · شکست و محل کفِ تأییدشده روی چهارساعته",
+          "seconds": 1900
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-194d746d-87ed-49da-85ed-6d037aeb2bf3-2.png",
+          "caption": "31:56 · نمای کف‌ها و آخرین محدودهٔ مورد بررسی",
+          "seconds": 1916
+        }
+      ],
+      "createdAt": "2026-11-21T22:39:15.405Z"
+    },
+    {
+      "id": "4916b2f8-bcb3-4ef4-a3a0-ef646f86d0a6",
+      "lessonId": "SiguKsCDAq8",
+      "title": "اولویت چهار ساعت بر سیگنال خلاف جهت ۱۵ دقیقه",
+      "content": "پس از تأیید صعود در چهار ساعت، آرشیا شکست کف ۱۵ دقیقه‌ای را معاملهٔ خلاف روند می‌داند. برای چنین معامله‌ای انتظاری محدودتر و گرفتن سریع‌تر بازده مدنظر را توصیف می‌کند. فریم بعدی افزایش قیمت در همان نمودار ۱۵ دقیقه‌ای را نشان می‌دهد.",
+      "startSeconds": 1919,
+      "endSeconds": 1997,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-4916b2f8-bcb3-4ef4-a3a0-ef646f86d0a6-0.png",
+          "caption": "32:22 · تأیید صعود در نمودار چهارساعته",
+          "seconds": 1942
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-4916b2f8-bcb3-4ef4-a3a0-ef646f86d0a6-1.png",
+          "caption": "32:58 · نمونهٔ ساختار مخالف در نمودار ۱۵ دقیقه‌ای",
+          "seconds": 1978
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-4916b2f8-bcb3-4ef4-a3a0-ef646f86d0a6-2.png",
+          "caption": "33:15 · حرکت بعدی در جهت روند تایم بالاتر",
+          "seconds": 1995
+        }
+      ],
+      "createdAt": "2026-11-21T22:39:16.761Z"
+    },
+    {
+      "id": "d3ea89c5-9075-4061-a0f5-50ceb5915033",
+      "lessonId": "SiguKsCDAq8",
+      "title": "ورود ۱۵ دقیقه‌ای در جهت چارچوب بالاتر",
+      "content": "آرشیا در حالی که چهار ساعت صعودی است، منتظر چینش سقف و کف در ۱۵ دقیقه می‌ماند. در نمونهٔ هم‌جهت، بسته‌شدن کندل بالای سقف را محل ورود می‌گیرد و محل حد ضرر را زیر کف نمونه نشان می‌دهد.",
+      "startSeconds": 1997,
+      "endSeconds": 2032,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-d3ea89c5-9075-4061-a0f5-50ceb5915033-0.png",
+          "caption": "33:29 · سقف و کف پس از حرکت اولیه",
+          "seconds": 2009
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-d3ea89c5-9075-4061-a0f5-50ceb5915033-1.png",
+          "caption": "33:36 · ورود هم‌جهت و فاصله تا حد ضرر",
+          "seconds": 2016
+        }
+      ],
+      "createdAt": "2026-11-21T22:39:17.635Z"
+    },
+    {
+      "id": "c7a85112-dc03-4ad0-84d3-074d3a00c0ce",
+      "lessonId": "SiguKsCDAq8",
+      "title": "صبر برای ساختار و مقایسهٔ فاصلهٔ حد ضرر",
+      "content": "اگر بعد از جهش هنوز کف مناسبی برای شکست نزولی شکل نگرفته، آرشیا حاضر است افت اول را از دست بدهد و منتظر ساختار بعدی بماند. با دو طرح فرضی روی نمودار چهار‌ساعته نشان می‌دهد که فاصلهٔ کوچک‌ترِ حد ضرر می‌تواند به نسبت بازده به ریسک بالاتری برسد، حتی با ورود دیرتر و حرکت قیمتی کوچک‌تر.",
+      "startSeconds": 2032,
+      "endSeconds": 2110,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "strategy",
+        "risk"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/SiguKsCDAq8-c7a85112-dc03-4ad0-84d3-074d3a00c0ce-0.png",
+          "caption": "34:05 · طرح فرضی تشکیل کف بعد از جهش",
+          "seconds": 2045
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-c7a85112-dc03-4ad0-84d3-074d3a00c0ce-1.png",
+          "caption": "34:32 · اندازه‌گیری فاصلهٔ حد ضرر در سناریوی اول",
+          "seconds": 2072
+        },
+        {
+          "src": "/screenshots/SiguKsCDAq8-c7a85112-dc03-4ad0-84d3-074d3a00c0ce-2.png",
+          "caption": "34:54 · مقایسهٔ سناریو با حد ضرر کوچک‌تر",
+          "seconds": 2094
+        }
+      ],
+      "createdAt": "2026-11-21T22:39:18.682Z"
+    },
+    {
+      "id": "00112548-faf5-42f0-bdb8-81ea1dec5f22",
+      "lessonId": "SiguKsCDAq8",
+      "title": "تأیید روند با رفتار حجم و واکنش به هشدار",
+      "content": "در جمع‌بندی، آرشیا در هر دو جهت انتظار دارد حجم در حرکت هم‌جهت بیشتر و در اصلاح کمتر باشد. رفتار متفاوت حجم را هشدار ضعف یا تغییر احتمالی روند می‌گیرد. او بالا آوردن حد ضرر یا باز نکردن موقعیت معکوس را به‌عنوان واکنش‌های ممکن مثال می‌زند.",
+      "startSeconds": 2110,
+      "endSeconds": 2152,
+      "kind": "arshia",
+      "topicIds": [
+        "volume",
+        "structure",
+        "risk"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:39:18.691Z"
+    },
+    {
+      "id": "083a960c-3bed-4cee-9764-26de6493dfd3",
+      "lessonId": "SiguKsCDAq8",
+      "title": "جمع‌بندی و پایان منبع",
+      "content": "آرشیا شکست سقف، حد ضرر زیر کف قبلی و همراهی با روند تا زمان تغییر ساختار را جمع‌بندی می‌کند. حجم و حمایت و مقاومت را کنار این چارچوب می‌گذارد و برای شرح مفصل‌تر به مجموعهٔ جداگانهٔ خودش ارجاع می‌دهد. کارت پایانی ویدیو پس از جمع‌بندی مرور شد.",
+      "startSeconds": 2152,
+      "endSeconds": 2284,
+      "kind": "arshia",
+      "topicIds": [
+        "structure",
+        "levels",
+        "strategy"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:39:18.702Z"
+    },
+    {
+      "id": "626f8c61-0c7c-4f09-95fd-5a3f1502c01e",
+      "lessonId": "SiguKsCDAq8",
+      "title": "بازه و محاسبهٔ مثال عدد ۵۰",
+      "content": "در خوانش دوم گفتار، مدرس به ۵۰ درصد و قیمت‌های حدود ۳٬۰۰۰، ۱۶٬۰۰۰ و ۸٬۰۰۰ دلار اشاره می‌کند. ابزار سنجش در ۱۴:۱۱ تغییر ۹٬۸۰۳٫۴۲ دلار را نشان می‌دهد. توضیح این بخش مبنای دقیق محاسبه و دو سر بازهٔ موردنظر را روشن نمی‌کند.",
+      "startSeconds": 837,
+      "endSeconds": 866,
+      "kind": "uncertain",
+      "topicIds": [
+        "structure",
+        "levels"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:41:11.551Z"
+    },
+    {
+      "id": "4d9897ac-4e82-4be5-8f08-c321c31605a8",
+      "lessonId": "SiguKsCDAq8",
+      "title": "معیار یکسان برای تأیید شکست روشن نیست",
+      "content": "در این مثال، تغییر سطح مقاومت و سپس کندلی که از آن عبور می‌کند تفاوت دو نقطهٔ ورود را روشن می‌کند. برای این بازه شرط یکسان و صریحی دربارهٔ عبور سایه یا لزوم بسته‌شدن بدنه برای همهٔ شکست‌ها بیان نمی‌شود. آرشیا در مثال‌های مشخص بعدی در ۲۴:۳۲، ۳۱:۴۸ تا ۳۱:۵۳ و ۳۳:۳۱ تا ۳۳:۳۷ از بسته‌شدن کندل بالای سطح صحبت می‌کند.",
+      "startSeconds": 1179,
+      "endSeconds": 1216,
+      "kind": "uncertain",
+      "topicIds": [
+        "levels",
+        "candles",
+        "strategy"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:41:11.568Z"
     }
   ],
   "workflow": {
-    "phase": "working",
-    "title": "مطالعهٔ درس ۳، داو تئوری",
-    "detail": "در حال دریافت و بررسی منبع اصلی درس.",
-    "next": "بررسی زیرنویس فارسی، گفتار و فریم‌های نمودار",
-    "lessonId": "SiguKsCDAq8",
-    "updatedAt": "2026-11-21T22:34:44.777Z"
+    "phase": "ready",
+    "title": "درس ۳، داو تئوری، تکمیل شد",
+    "detail": "۳۸:۰۴ از ۳۸:۰۴ بررسی شد. ۳۷ یادداشت مستند، ۲ یادداشت ابهام و ۸۳ فریم منبع ثبت و وارسی شد.",
+    "next": "درس ۴، حمایت و مقاومت (GvReDYmaQeY). مثال داو تئوری در ۱۹:۳۹ تا ۲۰:۱۶ را مرور کن؛ انتخاب سطح مقاومت محل شکست و حد ضرر نمونه را تغییر داد.",
+    "lessonId": "GvReDYmaQeY",
+    "updatedAt": "2026-11-21T22:43:46.642Z"
   },
   "activity": [
+    {
+      "id": "97e32345-c6b6-4cfa-ad66-10a756c121ec",
+      "at": "2026-11-21T22:43:46.642Z",
+      "title": "درس ۳، داو تئوری، تکمیل شد",
+      "detail": "۳۸:۰۴ از ۳۸:۰۴ بررسی شد. ۳۷ یادداشت مستند، ۲ یادداشت ابهام و ۸۳ فریم منبع ثبت و وارسی شد.",
+      "type": "status"
+    },
+    {
+      "id": "5982b7c4-c40e-47a7-9df7-cb5044dc51d9",
+      "at": "2026-11-21T22:43:46.629Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری · تکمیل شده",
+      "type": "study",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "6ad43279-468c-4de7-95bb-9c68b7359f1c",
+      "at": "2026-11-21T22:41:11.568Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "معیار یکسان برای تأیید شکست روشن نیست",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "8df680df-e21a-485e-b1e1-cb19b2f4e92b",
+      "at": "2026-11-21T22:41:11.551Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "بازه و محاسبهٔ مثال عدد ۵۰",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "b5f4eea5-dde1-4c7c-94ff-295e9e42bd09",
+      "at": "2026-11-21T22:39:18.726Z",
+      "title": "در حال مطالعهٔ درس ۳، داو تئوری",
+      "detail": "مرور زیرنویس و نمودار تا کارت پایانی انجام شد.",
+      "type": "status"
+    },
+    {
+      "id": "5f1d1d26-0c46-4aed-b44a-4d4e4de8f80b",
+      "at": "2026-11-21T22:39:18.717Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری · نیازمند مرور",
+      "type": "study",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "0b2c7895-d5c2-41d4-906f-82acf7cfeedf",
+      "at": "2026-11-21T22:39:18.702Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جمع‌بندی و پایان منبع",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "1f37ac25-3446-4798-bc79-70280c214fe7",
+      "at": "2026-11-21T22:39:18.691Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تأیید روند با رفتار حجم و واکنش به هشدار",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "63852bf3-e3c5-4565-aaf5-f1db38cf647b",
+      "at": "2026-11-21T22:39:18.682Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "صبر برای ساختار و مقایسهٔ فاصلهٔ حد ضرر",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "5acfe024-950f-4ba5-8e76-82293e3c221a",
+      "at": "2026-11-21T22:39:17.635Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ورود ۱۵ دقیقه‌ای در جهت چارچوب بالاتر",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "bc361750-9dbe-475f-954e-7682debf1b88",
+      "at": "2026-11-21T22:39:16.761Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "اولویت چهار ساعت بر سیگنال خلاف جهت ۱۵ دقیقه",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "f55958ac-6377-4d8f-9be8-8d2397e009e1",
+      "at": "2026-11-21T22:39:15.405Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ورود ۱۵ دقیقه‌ای و دنبال‌کردن چهار‌ساعته",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "67ad6923-4951-4fde-8e02-4fd292d6b160",
+      "at": "2026-11-21T22:39:13.834Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جابه‌جایی حد ضرر در همان تایم ورود",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "3b8ddb2f-1342-40e2-828b-ad5ba37b07e3",
+      "at": "2026-11-21T22:39:13.222Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ضعف صعود و خروج با حد ضرر بالاآمده",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "25e62950-58dd-43df-bcdd-88339fa9ef23",
+      "at": "2026-11-21T22:39:12.012Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "خروج بر اساس ساختار تایم هفتگی",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "5a8e1b7e-21ea-48b0-b20e-04f16ea34c77",
+      "at": "2026-11-21T22:38:43.652Z",
+      "title": "در حال مطالعهٔ درس ۳، داو تئوری",
+      "detail": "الگوهای بازگشت با فریم‌های جداگانهٔ تشکیل و شکست ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "30278452-f699-45a3-b707-799bbb752243",
+      "at": "2026-11-21T22:38:43.642Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری · در حال مطالعه",
+      "type": "study",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "7d66a535-db36-4990-9a52-cc692cdc5595",
+      "at": "2026-11-21T22:38:43.625Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تأیید سقف پایین‌تر با شکست کف",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "e8407835-13af-4ca6-aed4-95b70e7f0c50",
+      "at": "2026-11-21T22:38:42.749Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "وقتی کف پیش از سقف پایین‌تر می‌شکند",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "965210d0-d942-48f1-bfed-beb2d27e5fa1",
+      "at": "2026-11-21T22:38:41.843Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "کف تقریباً دوقلو و کندل‌های کنار هم",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "4660564f-4093-4430-a2bd-722604975613",
+      "at": "2026-11-21T22:38:40.501Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "دوقلوی سقف و شرط ورود",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "39510452-1d2c-477e-8bf8-e9174419dc3c",
+      "at": "2026-11-21T22:38:39.724Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جهت‌های متوالی در تایم پایین",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "8d90fb97-ee7a-4560-8a77-56113cd218f9",
+      "at": "2026-11-21T22:38:39.040Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "توزیع ۱۵ دقیقه‌ای و شکست کف باکس",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "e601b808-b578-4b90-9367-748a12cec921",
+      "at": "2026-11-21T22:38:07.318Z",
+      "title": "در حال مطالعهٔ درس ۳، داو تئوری",
+      "detail": "نمونه‌های معاملهٔ همراه روند و حد ضرر در دفتر ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "3410144c-def5-49c9-bf61-6adb0b222ee5",
+      "at": "2026-11-21T22:38:07.307Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری · در حال مطالعه",
+      "type": "study",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "0d40082d-8829-4ef4-b4d2-2597988d0e24",
+      "at": "2026-11-21T22:38:07.293Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "قرینهٔ نزولی؛ شکست کف و حد ضرر بالای سقف",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "4e480b35-a27b-4d99-ac31-fcb1974d3ff8",
+      "at": "2026-11-21T22:38:06.255Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "حد ضرر با سایه و بازخوانی مقاومت",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "596dc94f-b5b0-47c7-ac86-a8915240da64",
+      "at": "2026-11-21T22:38:04.968Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تکرار شکست و تغییر جای حد ضرر",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "d33351f7-c3fd-4e54-82d0-d050149a781b",
+      "at": "2026-11-21T22:38:04.294Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "کف تازه پس از عبور از سقف تأیید می‌شود",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "b4306357-2bcf-4a53-8aa8-6e5e47986e24",
+      "at": "2026-11-21T22:38:03.503Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ورود صعودی و حد ضرر اولیه",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "1bd47745-91bd-4611-85b9-51fd62c69568",
+      "at": "2026-11-21T22:38:02.631Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نام‌گذاری سقف و کف روی نمودار صعودی",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "cf0f06d3-f846-4506-916b-c64e4e49f09f",
+      "at": "2026-11-21T22:38:01.430Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "دو وضعیت کاربردی و انباشت چهار‌ساعته",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "cd65ad4c-7593-4d73-a3d9-3a965c0a831c",
+      "at": "2026-11-21T22:38:00.571Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "پیش‌نمایش ورود و خروج در بیت‌کوین هفتگی",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "f7e73995-3d75-43a5-949f-e8bdcb42543a",
+      "at": "2026-11-21T22:37:59.567Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "اهمیت عدد ۵۰ در توضیح مدرس",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "38395d01-6f80-469e-a2a3-723fbd4036c7",
+      "at": "2026-11-21T22:37:58.941Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "هزینهٔ صبر برای تأیید",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "ba74312f-29c5-470c-a1ab-b8d9c2a07597",
+      "at": "2026-11-21T22:37:31.051Z",
+      "title": "در حال مطالعهٔ درس ۳، داو تئوری",
+      "detail": "فازهای بازار و نحوهٔ استفاده از شکست باکس ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "9ebfe54b-bb87-420e-b85d-2c29297b3a5b",
+      "at": "2026-11-21T22:37:31.042Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری · در حال مطالعه",
+      "type": "study",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "e0cd7fef-3d39-4cd8-8022-0f33459d4c70",
+      "at": "2026-11-21T22:37:31.024Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "باکس باز بیت‌کوین و تأیید جهت",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "e0817e14-2442-4c66-8268-b7286def42c7",
+      "at": "2026-11-21T22:37:30.157Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "چرخهٔ فازها و اهمیت تایم‌فریم",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "ad7c3c14-b36c-4b2b-aebd-4212a2154311",
+      "at": "2026-11-21T22:37:29.690Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "توزیع بعد از رشد تند",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "07d7b9f0-aa4f-4423-8c78-7e1aca2a21f4",
+      "at": "2026-11-21T22:37:28.282Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "شکست انباشت و حرکت صعودی",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "04089ba4-7f05-49f6-9de5-3b5fc21b2185",
+      "at": "2026-11-21T22:37:27.660Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "باکس انباشت پس از افت تند",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "0728c357-cb55-4f40-99d8-76ddb86623bc",
+      "at": "2026-11-21T22:37:26.610Z",
+      "title": "در حال مطالعهٔ درس ۳، داو تئوری",
+      "detail": "ساختار روند و مقایسهٔ مقیاس‌ها روی نمودار ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "24f67efa-37d8-41d2-a4d8-c6deeff692b6",
+      "at": "2026-11-21T22:37:26.597Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری · در حال مطالعه",
+      "type": "study",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "83cbd557-885e-403e-944d-d1bfaa82eed4",
+      "at": "2026-11-21T22:37:26.579Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نوسان کوچک و شکست باکس",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "9ff9a79e-8608-4cbe-80cc-51e5a531bf87",
+      "at": "2026-11-21T22:37:25.369Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تغییر مقیاس لگاریتمی و خط روند",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "402dc0cd-b057-4ba4-80eb-4b2b9642eff6",
+      "at": "2026-11-21T22:37:24.445Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "سقف‌ها و کف‌ها در دو مقیاس",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "7e501573-ff31-4623-a8ea-030d4456718a",
+      "at": "2026-11-21T22:37:23.619Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "عبور از سقف روند اصلی",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "67ef1888-0260-4432-806b-60554d78149b",
+      "at": "2026-11-21T22:37:20.944Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "سه ردهٔ حرکت در نمودار هفتگی",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "64c7efb3-71b4-4b89-a75f-5d2ad5e5c2e1",
+      "at": "2026-11-21T22:35:34.323Z",
+      "title": "در حال مطالعهٔ درس ۳، داو تئوری",
+      "detail": "مقدمه در دفتر ثبت شد. زیرنویس خودکار اصلی فارسی و مدت ۳۸:۰۴ تأیید شد.",
+      "type": "status"
+    },
+    {
+      "id": "9e477b20-d18f-4433-9ab6-69c391b39e22",
+      "at": "2026-11-21T22:35:34.312Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری · در حال مطالعه",
+      "type": "study",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "7e57ac55-e633-4f0b-ac04-502c8da7aa3e",
+      "at": "2026-11-21T22:35:34.305Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "فرض ادامهٔ روند و تأیید حجم",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
+    {
+      "id": "f4c08168-eb9c-4fb3-b7fa-07d985a517b9",
+      "at": "2026-11-21T22:35:34.298Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "هدف مرور داو تئوری",
+      "type": "note",
+      "lessonId": "SiguKsCDAq8"
+    },
     {
       "id": "0e938ce5-8436-4423-979c-35f3ddef8e09",
       "at": "2026-11-21T22:34:44.777Z",
