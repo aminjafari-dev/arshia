@@ -1,0 +1,2496 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T21:57:12.317Z",
+  "catalogVerifiedAt": "2026-11-21T21:41:32.058Z",
+  "channel": {
+    "title": "Trade city pro",
+    "url": "https://www.youtube.com/@Tradecitypro"
+  },
+  "playlists": [
+    {
+      "id": "base",
+      "title": "از صفر تا ۳۰",
+      "subtitle": "پایه‌های یک نگاه درست",
+      "youtubeId": "PLRZx7LpGZLGkOkVtf9MCYyygMYQ89v6Dk",
+      "description": "شروع مسیر، حمایت و مقاومت، کندل‌ها و مدیریت سرمایه",
+      "color": "green"
+    },
+    {
+      "id": "middle",
+      "title": "از ۳۰ تا ۶۰",
+      "subtitle": "عمیق‌تر در رفتار بازار",
+      "youtubeId": "PLRZx7LpGZLGndRgtOCTfVJlxn_4Wh589M",
+      "description": "روند، حجم، ستاپ‌ها، اوردر بوک و اندیکاتورها",
+      "color": "purple"
+    },
+    {
+      "id": "advanced",
+      "title": "از ۶۰ تا ۱۰۰",
+      "subtitle": "اتصال مفاهیم به استراتژی",
+      "youtubeId": "PLRZx7LpGZLGnXABmisKijEhwotw2uejyn",
+      "description": "ساختار بازار، فیبوناچی، مدیریت سرمایه و روانشناسی",
+      "color": "orange"
+    }
+  ],
+  "topics": [
+    {
+      "id": "foundations",
+      "title": "مبانی و ابزارها",
+      "description": "مسیر یادگیری و ابزارهای مشاهدهٔ بازار",
+      "icon": "compass",
+      "color": "green"
+    },
+    {
+      "id": "levels",
+      "title": "حمایت و مقاومت",
+      "description": "سطوح، شکست‌ها و ناحیه‌های قیمتی",
+      "icon": "layers",
+      "color": "blue"
+    },
+    {
+      "id": "structure",
+      "title": "روند و ساختار بازار",
+      "description": "جهت، سلامت روند و حرکت‌های بازار",
+      "icon": "trend",
+      "color": "purple"
+    },
+    {
+      "id": "candles",
+      "title": "کندل‌ها و ستاپ‌ها",
+      "description": "رفتار کندل و نمونه‌های عملی ورود",
+      "icon": "candles",
+      "color": "orange"
+    },
+    {
+      "id": "volume",
+      "title": "حجم و اوردر بوک",
+      "description": "حجم معاملات، سفارش‌ها و اوپن اینترست",
+      "icon": "chart",
+      "color": "blue"
+    },
+    {
+      "id": "indicators",
+      "title": "اندیکاتورها",
+      "description": "ابزارها، تنظیمات و کاربردهای مطرح‌شده",
+      "icon": "sliders",
+      "color": "purple"
+    },
+    {
+      "id": "risk",
+      "title": "سرمایه و مدیریت ریسک",
+      "description": "حدضرر، اندازهٔ معامله و مدیریت خروج",
+      "icon": "shield",
+      "color": "green"
+    },
+    {
+      "id": "strategy",
+      "title": "استراتژی و اجرای معامله",
+      "description": "قواعد ورود، خروج و چک‌لیست‌ها",
+      "icon": "target",
+      "color": "orange"
+    },
+    {
+      "id": "psychology",
+      "title": "روانشناسی و ژورنال",
+      "description": "احتمال، روتین، رفتار و ثبت تجربه‌ها",
+      "icon": "book",
+      "color": "pink"
+    },
+    {
+      "id": "fibonacci",
+      "title": "فیبوناچی",
+      "description": "موج‌ها، نسبت‌ها و ناحیه‌ها",
+      "icon": "grid",
+      "color": "blue"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "-5oNwNoU3Z0",
+      "playlistId": "base",
+      "index": 1,
+      "order": 1,
+      "title": "آموزش ترید را از کجا شروع کنیم؟ | مسیر کامل یادگیری ترید از صفر تا حرفه‌ای",
+      "durationSeconds": 1020,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=-5oNwNoU3Z0",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "bev5AR8XYkU",
+      "playlistId": "base",
+      "index": 2,
+      "order": 2,
+      "title": "Technical Analysis Training Part 1: Cryptocurrency Trading Roadmap",
+      "durationSeconds": 2160,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=bev5AR8XYkU",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "N3avE-Z6JjE",
+      "playlistId": "base",
+      "index": 3,
+      "order": 3,
+      "title": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview",
+      "durationSeconds": 2280,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=N3avE-Z6JjE",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "SiguKsCDAq8",
+      "playlistId": "base",
+      "index": 4,
+      "order": 4,
+      "title": "آموزش تحلیل تکنیکال پارت ۳ : راحت ترین استراتژی ترید داو تئوری",
+      "durationSeconds": 2280,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=SiguKsCDAq8",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "GvReDYmaQeY",
+      "playlistId": "base",
+      "index": 5,
+      "order": 5,
+      "title": "آموزش تحلیل تکنیکال پارت ۴ : آموزش حمایت و مقاومت",
+      "durationSeconds": 1680,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=GvReDYmaQeY",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "levels"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "4h-nJMwCXDY",
+      "playlistId": "base",
+      "index": 6,
+      "order": 6,
+      "title": "Technical Analysis Training Part 5: Throw away everything you know about support and resistance.",
+      "durationSeconds": 2340,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=4h-nJMwCXDY",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "levels"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "9BYWa6V0rnw",
+      "playlistId": "base",
+      "index": 7,
+      "order": 7,
+      "title": "آموزش تحلیل تکنیکال پارت ۶ : حدضرر تنها راه نجات",
+      "durationSeconds": 1440,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=9BYWa6V0rnw",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "gHreTOdbuB4",
+      "playlistId": "base",
+      "index": 8,
+      "order": 8,
+      "title": "آموزش تحلیل تکنیکال پارت ۷ : مدیریت سرمایه ، مدیریت ریسک ، ریسک به ریوارد ، وین ریت به زبان ساده",
+      "durationSeconds": 3480,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=gHreTOdbuB4",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "pcfw8Fr6trI",
+      "playlistId": "base",
+      "index": 9,
+      "order": 9,
+      "title": "آموزش تحلیل تکنیکال پارت ۸ : بهترین اندیکاتور ارزدیجیتال |مدیریت سرمایه TCP",
+      "durationSeconds": 900,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=pcfw8Fr6trI",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators",
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "EKlbAuH4aB8",
+      "playlistId": "base",
+      "index": 10,
+      "order": 10,
+      "title": "آموزش تحلیل تکنیکال پارت ۹ : کندل شناسی بر اساس پرایس اکشن",
+      "durationSeconds": 1620,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=EKlbAuH4aB8",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "MEcW4Hm4cko",
+      "playlistId": "base",
+      "index": 11,
+      "order": 11,
+      "title": "آموزش تحلیل تکنیکال پارت ۱۰ : هرچی از کندل شناسی میشناسی بنداز دور",
+      "durationSeconds": 1800,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=MEcW4Hm4cko",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "ArejlRH3r_A",
+      "playlistId": "base",
+      "index": 12,
+      "order": 12,
+      "title": "آموزش تحلیل تکنیکال پارت ۱۱:هرچی از ترید میشناسی بنداز دور بر اساس پرایس اکشن کندل شناسی ار تی ام",
+      "durationSeconds": 1980,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=ArejlRH3r_A",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "-u3A8fEf0so",
+      "playlistId": "base",
+      "index": 13,
+      "order": 13,
+      "title": "آموزش تحلیل تکنیکال پارت ۱۲ : استراتژی دامیننس ها در بازار ارزدیجیتال دامیننس ها هک کریپتو",
+      "durationSeconds": 2640,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=-u3A8fEf0so",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "Elt4CxFdgP4",
+      "playlistId": "base",
+      "index": 14,
+      "order": 14,
+      "title": "آموزش تحلیل تکنیکال پارت ۱۳ : اندیکاتور RSI",
+      "durationSeconds": 1560,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=Elt4CxFdgP4",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "GyHXekvfzZE",
+      "playlistId": "base",
+      "index": 15,
+      "order": 15,
+      "title": "▫️آموزش تحلیل تکنیکال پارت ۱۴ : اندیکاتور بولینگر بند bollinger band",
+      "durationSeconds": 1200,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=GyHXekvfzZE",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "ayhS3LDtw0w",
+      "playlistId": "base",
+      "index": 16,
+      "order": 16,
+      "title": "▫️آموزش تحلیل تکنیکال پارت ۱۵ : استراتژی ترید BB & RSI",
+      "durationSeconds": 1320,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=ayhS3LDtw0w",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "lx9FjULj4zI",
+      "playlistId": "base",
+      "index": 17,
+      "order": 17,
+      "title": "آموزش صفر تا 100 ژورنال نویسی ارزدیجیتال | نحوه استفاده از اکسل تریدسیتی پرو",
+      "durationSeconds": 1260,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=lx9FjULj4zI",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "psychology"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "btRFwk458CY",
+      "playlistId": "base",
+      "index": 18,
+      "order": 18,
+      "title": "آموزش تحلیل تکنیکال پارت ۱۷ : تنها راز موفقیت ترید , درک احتمال",
+      "durationSeconds": 3960,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=btRFwk458CY",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "psychology"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "9zG2eedIvCs",
+      "playlistId": "base",
+      "index": 19,
+      "order": 19,
+      "title": "آموزش تحلیل تکنیکال پارت 18 : استراتژی که در ماه گذشته ۹۵۰۰۰ دلار سود تحلیل تکنیکال پرایس اکشن kbsm",
+      "durationSeconds": 1560,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=9zG2eedIvCs",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "rcKNHnBhKe4",
+      "playlistId": "middle",
+      "index": 1,
+      "order": 20,
+      "title": "آموزش رایگان تحلیل تکنیکال پارت 19 : زور خریدار و فروشنده مسئله این است بر اساس پرایس اکشن",
+      "durationSeconds": 1320,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=rcKNHnBhKe4",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "kh-hoddH0Bk",
+      "playlistId": "middle",
+      "index": 2,
+      "order": 21,
+      "title": "آموزش تحلیل تکنیکال پارت 20: هر چی از سیو سود میشناسی بنداز دور صفر تا صد سیو سود در ارزدیجیتال",
+      "durationSeconds": 2220,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=kh-hoddH0Bk",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "jFmeVYA76Dc",
+      "playlistId": "middle",
+      "index": 3,
+      "order": 22,
+      "title": "آموزش تحلیل تکنیکال پارت 21 : شکست و تثبیت حمایت و مقاومت بر اساس پرایس اکشن",
+      "durationSeconds": 1440,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=jFmeVYA76Dc",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "levels"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "XSpB0gk1KbQ",
+      "playlistId": "middle",
+      "index": 4,
+      "order": 23,
+      "title": "آموزش تحلیل تکنیکال پارت 22 : ترند آنالیز (سلامت روند)",
+      "durationSeconds": 1020,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=XSpB0gk1KbQ",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "2T79KMVd2IA",
+      "playlistId": "middle",
+      "index": 5,
+      "order": 24,
+      "title": "آموزش تحلیل تکنیکال پارت 23 : پرایس اکشن این قسمت ترند آنالیز سایز کندل ها",
+      "durationSeconds": 1560,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=2T79KMVd2IA",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure",
+        "candles"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "id1wZl9PLso",
+      "playlistId": "middle",
+      "index": 6,
+      "order": 25,
+      "title": "آموزش تحلیل تکنیکال پارت 24 : پرایس اکشن ترند آنالیز انواع روش تایید برای ورود به ترید",
+      "durationSeconds": 1680,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=id1wZl9PLso",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "wUz9yks5TNU",
+      "playlistId": "middle",
+      "index": 7,
+      "order": 26,
+      "title": "آموزش تحلیل تکنیکال پارت 25 : پرایس اکشن روند شناسی و رسم روند و ترند آنالیز",
+      "durationSeconds": 1920,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=wUz9yks5TNU",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "twBwWHBMhw4",
+      "playlistId": "middle",
+      "index": 8,
+      "order": 27,
+      "title": "آموزش تحلیل تکنیکال پارت 26 : هرچی از تغییر روند می شناسی بنداز دور",
+      "durationSeconds": 1740,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=twBwWHBMhw4",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "fGArARwlo08",
+      "playlistId": "middle",
+      "index": 9,
+      "order": 28,
+      "title": "آموزش تحلیل تکنیکال پارت 27 : هرچی از ضعف روند و مولتی تایم فریم می شناسی بنداز دور",
+      "durationSeconds": 1740,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=fGArARwlo08",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "hSmk7odZU88",
+      "playlistId": "middle",
+      "index": 10,
+      "order": 29,
+      "title": "آموزش تحلیل تکنیکال پارت 28 : سریع ترین روش تشخیص تغییر روند ارزدیجیتال",
+      "durationSeconds": 702,
+      "durationApproximate": false,
+      "url": "https://www.youtube.com/watch?v=hSmk7odZU88",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "ghinfD6eOiA",
+      "playlistId": "middle",
+      "index": 11,
+      "order": 30,
+      "title": "آموزش تحلیل تکنیکال پارت 29 : هرچی از حجم و اوپن اینترست می شناسی بنداز دور",
+      "durationSeconds": 1680,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=ghinfD6eOiA",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "HysicEWb5qw",
+      "playlistId": "middle",
+      "index": 12,
+      "order": 31,
+      "title": "آموزش تحلیل تکنیکال پارت 30 : انواع اندیکاتورهای حجم و تحلیل زمانی در ارزدیجیتال",
+      "durationSeconds": 1380,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=HysicEWb5qw",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume",
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "3los1H5WKQI",
+      "playlistId": "middle",
+      "index": 13,
+      "order": 32,
+      "title": "آموزش تحلیل تکنیکال پارت 31 : حجم بر اساس پرایس اکشن",
+      "durationSeconds": 1860,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=3los1H5WKQI",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "nPxzbDpCpNA",
+      "playlistId": "middle",
+      "index": 14,
+      "order": 33,
+      "title": "آموزش تحلیل تکنیکال پارت 32 : حجم از نگاهی دیگر بر اساس پرایس اکشن",
+      "durationSeconds": 1440,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=nPxzbDpCpNA",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "cFEIvYqjE64",
+      "playlistId": "middle",
+      "index": 15,
+      "order": 34,
+      "title": "Technical Analysis Training Part 33: The Relationship Between Volume and Candlesticks Based on Pr...",
+      "durationSeconds": 875,
+      "durationApproximate": false,
+      "url": "https://www.youtube.com/watch?v=cFEIvYqjE64",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles",
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "tplgMnSD8qs",
+      "playlistId": "middle",
+      "index": 16,
+      "order": 35,
+      "title": "آموزش تحلیل تکنیکال پارت 34 : ترید با 3 تا مووینگ اورج بر اساس پرایس اکشن",
+      "durationSeconds": 2100,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=tplgMnSD8qs",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "0K16TeRzIF4",
+      "playlistId": "middle",
+      "index": 17,
+      "order": 36,
+      "title": "آموزش تحلیل تکنیکال پارت 35 : کندل ستاپ ترید ارشیا عزیزپور بر اساس پرایس اکشن و کندل شناسی",
+      "durationSeconds": 1320,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=0K16TeRzIF4",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "LZ0XjxhCKp8",
+      "playlistId": "middle",
+      "index": 18,
+      "order": 37,
+      "title": "آموزش تحلیل تکنیکال پارت 36 : کندل ستاپ ترید ارشیا عزیزپور بر اساس پرایس اکشن و کندل شناسی پارت 2",
+      "durationSeconds": 794,
+      "durationApproximate": false,
+      "url": "https://www.youtube.com/watch?v=LZ0XjxhCKp8",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "347XUVQ75C0",
+      "playlistId": "middle",
+      "index": 19,
+      "order": 38,
+      "title": "آموزش تحلیل تکنیکال پارت 37 : من ۱۰۰ هزار دلار از کندل ستاپ تو ترید درآوردم آموزش کندل ستاپ",
+      "durationSeconds": 2160,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=347XUVQ75C0",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "owzIvbVdE8w",
+      "playlistId": "middle",
+      "index": 20,
+      "order": 39,
+      "title": "آموزش تحلیل تکنیکال پارت 38 : پرایس اکشن کندل شناسی کندل اینگلف",
+      "durationSeconds": 1260,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=owzIvbVdE8w",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "55W7TQeqNf8",
+      "playlistId": "middle",
+      "index": 21,
+      "order": 40,
+      "title": "آموزش تحلیل تکنیکال پارت 39 : اوردر بوک بر اساس پرایس اکشن در ترید ارزدیجیتال",
+      "durationSeconds": 1980,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=55W7TQeqNf8",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "YeIlmxmu12Q",
+      "playlistId": "middle",
+      "index": 22,
+      "order": 41,
+      "title": "آموزش تحلیل تکنیکال پارت 40 : معجزه اُردر بوک آموزش رایگان تحلیل تکنیکال بر اساس پرایس اکشن",
+      "durationSeconds": 1200,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=YeIlmxmu12Q",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "67pTdbH8K88",
+      "playlistId": "middle",
+      "index": 23,
+      "order": 42,
+      "title": "آموزش تحلیل تکنیکال پارت 41 : افزایش تضمینی وین ریت با تریگر و اوردر بوک",
+      "durationSeconds": 1200,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=67pTdbH8K88",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "TcEa3D8Mrrs",
+      "playlistId": "middle",
+      "index": 24,
+      "order": 43,
+      "title": "آموزش تحلیل تکنیکال پارت 42 : استراتژی ترید بر اساس اوردر بوک پارت 1",
+      "durationSeconds": 1440,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=TcEa3D8Mrrs",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "PJbVWSUQVLA",
+      "playlistId": "middle",
+      "index": 25,
+      "order": 44,
+      "title": "آموزش تحلیل تکنیکال پارت 43 : استراتژی ترید بر اساس اوردر بوک پارت 2",
+      "durationSeconds": 1800,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=PJbVWSUQVLA",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "volume",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "4rXugnrp-64",
+      "playlistId": "middle",
+      "index": 26,
+      "order": 45,
+      "title": "آموزش تحلیل تکنیکال پارت 44 : هرچی از اندیکاتور و اسیلاتور ها میشناسی بنداز دور",
+      "durationSeconds": 1380,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=4rXugnrp-64",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "RPTWOlola3M",
+      "playlistId": "middle",
+      "index": 27,
+      "order": 46,
+      "title": "آموزش تحلیل تکنیکال پارت 45 : انواع اندیکاتور ها",
+      "durationSeconds": 1140,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=RPTWOlola3M",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "q9IyDDMjfOM",
+      "playlistId": "middle",
+      "index": 28,
+      "order": 47,
+      "title": "آموزش تحلیل تکنیکال پارت 46 : 8 روش استفاده از اوسیلاتورها پارت1 | اور بای و اور سولد",
+      "durationSeconds": 1020,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=q9IyDDMjfOM",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "EhkbSfDl8Kc",
+      "playlistId": "middle",
+      "index": 29,
+      "order": 48,
+      "title": "آموزش تحلیل تکنیکال پارت 47 : 8 روش استفاده از اوسیلاتورها پارت2 | نقطه عطف",
+      "durationSeconds": 900,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=EhkbSfDl8Kc",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "DRk7uQABE6Q",
+      "playlistId": "middle",
+      "index": 30,
+      "order": 49,
+      "title": "آموزش تحلیل تکنیکال پارت 48 : 8 روش استفاده از اوسیلاتورها پارت 3 | کراس اور",
+      "durationSeconds": 960,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=DRk7uQABE6Q",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "Qn0wrOZ0Y7Y",
+      "playlistId": "middle",
+      "index": 31,
+      "order": 50,
+      "title": "آموزش تحلیل تکنیکال پارت 49 : 8 روش استفاده از اوسیلاتورها پارت 4 | تحلیل تکنیکال روی اندیکاتورها",
+      "durationSeconds": 1080,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=Qn0wrOZ0Y7Y",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "CtPM8zV2dmQ",
+      "playlistId": "middle",
+      "index": 32,
+      "order": 51,
+      "title": "آموزش تحلیل تکنیکال پارت 50 : 8 روش استفاده از اوسیلاتورها پارت 5 | این روش زندگیم رو تغییر داد",
+      "durationSeconds": 1200,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=CtPM8zV2dmQ",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "FbHXJ37mXF8",
+      "playlistId": "middle",
+      "index": 33,
+      "order": 52,
+      "title": "آموزش تحلیل تکنیکال پارت 51 : 8 روش استفاده از اوسیلاتورها پارت 6| آچارکشی‌ اندیکاتورها و اسیلاتورها",
+      "durationSeconds": 1380,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=FbHXJ37mXF8",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "DlX-MxYEp7E",
+      "playlistId": "middle",
+      "index": 34,
+      "order": 53,
+      "title": "آموزش تحلیل تکنیکال پارت 52 : 8 روش استفاده از اوسیلاتورها پارت7 | راز اندیکاتورها و اوسیلاتور ها",
+      "durationSeconds": 1320,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=DlX-MxYEp7E",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "YdZLkvyhvdE",
+      "playlistId": "middle",
+      "index": 35,
+      "order": 54,
+      "title": "آموزش تحلیل تکنیکال پارت 53 : 8 روش استفاده از اوسیلاتورها پارت8 | آخرین مطلب اندیکاتور و اوسیلاتور",
+      "durationSeconds": 1020,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=YdZLkvyhvdE",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "NTU-0DL7MOI",
+      "playlistId": "middle",
+      "index": 36,
+      "order": 55,
+      "title": "آموزش تحلیل تکنیکال پارت 54 : هرچی از اندیکاتور MACD می شناسی بنداز دور",
+      "durationSeconds": 1380,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=NTU-0DL7MOI",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "UV3vmjUuK24",
+      "playlistId": "middle",
+      "index": 37,
+      "order": 56,
+      "title": "آموزش تحلیل تکنیکال پارت 55 : اوسیلاتور و اندیکاتور ROC و MOM روش خودم",
+      "durationSeconds": 1740,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=UV3vmjUuK24",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "Ycer2YNyGT0",
+      "playlistId": "middle",
+      "index": 38,
+      "order": 57,
+      "title": "آموزش تحلیل تکنیکال پارت 56 : اندیکاتور ADX اندیکاتور RSI و MACD بنداز دور",
+      "durationSeconds": 2520,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=Ycer2YNyGT0",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "R03S1gHeeIU",
+      "playlistId": "middle",
+      "index": 39,
+      "order": 58,
+      "title": "آموزش تحلیل تکنیکال پارت 57 : اسنایپری خروج بزن پیوت پوینت",
+      "durationSeconds": 900,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=R03S1gHeeIU",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators",
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "dOQh0MaI2t8",
+      "playlistId": "middle",
+      "index": 40,
+      "order": 59,
+      "title": "آموزش تحلیل تکنیکال پارت 58 : بهترین اندیکاتور ارزدیجیتال | تشخیص زمان ورود به معامله TCP",
+      "durationSeconds": 1020,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=dOQh0MaI2t8",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "indicators",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "V7NEHl9jBI8",
+      "playlistId": "middle",
+      "index": 41,
+      "order": 60,
+      "title": "آموزش تحلیل تکنیکال پارت 59 : چطوری بیشترین سود از ارزدیجیتال بگیریم با پیر BTC خروج بزنیم",
+      "durationSeconds": 1500,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=V7NEHl9jBI8",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "j9ejHpBrslU",
+      "playlistId": "middle",
+      "index": 42,
+      "order": 61,
+      "title": "آموزش تحلیل تکنیکال پارت 60: هرچی از ساخت و نوشتن استراتژی ترید میشناسی بنداز دور بر اساس پرایس اکشن",
+      "durationSeconds": 2340,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=j9ejHpBrslU",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "T36uIItlwXo",
+      "playlistId": "middle",
+      "index": 43,
+      "order": 62,
+      "title": "آموزش تحلیل تکنیکال پارت 61 : تنها راز موفقیت در ترید ارزدیجیتال | کافیه همین ویدیو رو ببینی !",
+      "durationSeconds": 1020,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=T36uIItlwXo",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "7DBmLGSKCgM",
+      "playlistId": "advanced",
+      "index": 1,
+      "order": 63,
+      "title": "آموزش تحلیل تکنیکال پارت 62 : مسیر درآمد دلاری ارشیا عزیزپور از ترید فیوچرز",
+      "durationSeconds": 2940,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=7DBmLGSKCgM",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "U947atNjUdY",
+      "playlistId": "advanced",
+      "index": 2,
+      "order": 64,
+      "title": "آموزش تحلیل تکنیکال پارت 63 : هرچی از سایکل‌های بازار می شناسی بنداز دور بر اساس پرایس اکشن",
+      "durationSeconds": 2400,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=U947atNjUdY",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "5vH4ZtsBmdE",
+      "playlistId": "advanced",
+      "index": 3,
+      "order": 65,
+      "title": "آموزش تحلیل تکنیکال پارت 64 : این تکنیک تحلیل تکنیکال ما رو سود ده کرد ساختار مارکت",
+      "durationSeconds": 3720,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=5vH4ZtsBmdE",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "OD6eBzYyE_0",
+      "playlistId": "advanced",
+      "index": 4,
+      "order": 66,
+      "title": "آموزش رایگان تحلیل تکنیکال 65 : راز نهایی تحلیل تکنیکال که 90% تریدرها نمیدونند",
+      "durationSeconds": 2340,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=OD6eBzYyE_0",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "YYOSEGnrvUU",
+      "playlistId": "advanced",
+      "index": 5,
+      "order": 67,
+      "title": "آموزش رایگان تحلیل تکنیکال 66 : با مومنتوم جا ماندن را فراموش کن",
+      "durationSeconds": 1260,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=YYOSEGnrvUU",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "ifZv3-eWKjg",
+      "playlistId": "advanced",
+      "index": 6,
+      "order": 68,
+      "title": "آموزش رایگان تحلیل تکنیکال 67 : هرچی از کندل شناسی میشناسی بنداز دور پارت ۳",
+      "durationSeconds": 1740,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=ifZv3-eWKjg",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "aYcOxR_YJwo",
+      "playlistId": "advanced",
+      "index": 7,
+      "order": 69,
+      "title": "آموزش رایگان تحلیل تکنیکال 68 : درآمد دلاری از کندل شناسی در ۶۰ دقیقه بر اساس پرایس اکشن",
+      "durationSeconds": 3720,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=aYcOxR_YJwo",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "zO-LsN-bXYo",
+      "playlistId": "advanced",
+      "index": 8,
+      "order": 70,
+      "title": "آموزش رایگان تحلیل تکنیکال 69 : استراتژی رایگان ترید ارزدیجیتال‌ بر اساس پرایس اکشن",
+      "durationSeconds": 1500,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=zO-LsN-bXYo",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "T3ZqL8kaUaM",
+      "playlistId": "advanced",
+      "index": 9,
+      "order": 71,
+      "title": "آموزش رایگان تحلیل تکنیکال 70 : همه چیز در مورد لوریج در 20 دقیقه",
+      "durationSeconds": 1260,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=T3ZqL8kaUaM",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "m_Ex35tZ5Tg",
+      "playlistId": "advanced",
+      "index": 10,
+      "order": 72,
+      "title": "آموزش رایگان تحلیل تکنیکال 71 : چطوری بهترین نقطه ورود داشته باشیم",
+      "durationSeconds": 788,
+      "durationApproximate": false,
+      "url": "https://www.youtube.com/watch?v=m_Ex35tZ5Tg",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "GQh9HdCZvOM",
+      "playlistId": "advanced",
+      "index": 11,
+      "order": 73,
+      "title": "آموزش رایگان تحلیل تکنیکال 72 : چک لیست قبل از باز کردن پوزیشن با تحلیل تکنیکال بر اساس کندل شناسی",
+      "durationSeconds": 1440,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=GQh9HdCZvOM",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "candles",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "EgsSbii_3cM",
+      "playlistId": "advanced",
+      "index": 12,
+      "order": 74,
+      "title": "آموزش رایگان تحلیل تکنیکال 73 : ۱۰ فرمان ترید برای رستگاری",
+      "durationSeconds": 1320,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=EgsSbii_3cM",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "eFMRpUUXGak",
+      "playlistId": "advanced",
+      "index": 13,
+      "order": 75,
+      "title": "آموزش رایگان تحلیل تکنیکال 74 : کجا می ارزه استاپ بخوریم",
+      "durationSeconds": 1140,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=eFMRpUUXGak",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "yQBThd1EQpw",
+      "playlistId": "advanced",
+      "index": 14,
+      "order": 76,
+      "title": "آموزش رایگان تحلیل تکنیکال 75 : مدیریت سرمایه پیشرفته",
+      "durationSeconds": 1680,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=yQBThd1EQpw",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "A3yvw3_aAjg",
+      "playlistId": "advanced",
+      "index": 15,
+      "order": 77,
+      "title": "آموزش رایگان تحلیل تکنیکال 76 : اشتباه همه در رسم فیبوناچی شروع موج ها",
+      "durationSeconds": 1440,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=A3yvw3_aAjg",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations",
+        "fibonacci"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "Rs6kK1JVT5M",
+      "playlistId": "advanced",
+      "index": 16,
+      "order": 78,
+      "title": "آموزش رایگان تحلیل تکنیکال 77 : فیبوناچی در تحلیل تکنیکال - قسمت اول",
+      "durationSeconds": 791,
+      "durationApproximate": false,
+      "url": "https://www.youtube.com/watch?v=Rs6kK1JVT5M",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "fibonacci"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "mUNmOwk3P1M",
+      "playlistId": "advanced",
+      "index": 17,
+      "order": 79,
+      "title": "آموزش رایگان تحلیل تکنیکال 78 : فیبوناچی قسمت دوم (پارت یک) - مارکت چگونه حرکت می‌کند؟",
+      "durationSeconds": 1380,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=mUNmOwk3P1M",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "fibonacci"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "WxIXJFBnsvs",
+      "playlistId": "advanced",
+      "index": 18,
+      "order": 80,
+      "title": "Fibonacci training in simple language, part two: Types of market movements from the perspective o...",
+      "durationSeconds": 1740,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=WxIXJFBnsvs",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "structure",
+        "fibonacci"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "olqyNQ7I5H0",
+      "playlistId": "advanced",
+      "index": 19,
+      "order": 81,
+      "title": "Free Fibonacci Technical Analysis Tutorial: Support and Resistance Zones",
+      "durationSeconds": 1020,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=olqyNQ7I5H0",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "levels",
+        "fibonacci"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "X_0BzH4kxPE",
+      "playlistId": "advanced",
+      "index": 20,
+      "order": 82,
+      "title": "آموزش رایگان تحلیل تکنیکال 81 : هر چی از فیبوناچی میشناسی بنداز دور",
+      "durationSeconds": 3240,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=X_0BzH4kxPE",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "fibonacci"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "MaPeSOSNE84",
+      "playlistId": "advanced",
+      "index": 21,
+      "order": 83,
+      "title": "آموزش رایگان تحلیل تکنیکال 82 : سایت تنسور چارتس برای اوردر بوک و حجم و ترید",
+      "durationSeconds": 1260,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=MaPeSOSNE84",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations",
+        "volume"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "puPu3d582Bo",
+      "playlistId": "advanced",
+      "index": 22,
+      "order": 84,
+      "title": "آموزش رایگان تحلیل تکنیکال 83 : با این وبسایت بار خودتو تو ترید ببند",
+      "durationSeconds": 1200,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=puPu3d582Bo",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "58Bv_3LSJmg",
+      "playlistId": "advanced",
+      "index": 23,
+      "order": 85,
+      "title": "How I Learned Trading, Price Action, and Technical Analysis",
+      "durationSeconds": 1140,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=58Bv_3LSJmg",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "3OmWhOHjHFQ",
+      "playlistId": "advanced",
+      "index": 24,
+      "order": 86,
+      "title": "Forget Everything You Know About Trader Behavior (Based on Price Action :))",
+      "durationSeconds": 1560,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=3OmWhOHjHFQ",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "psychology"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "2BluCMI_fOo",
+      "playlistId": "advanced",
+      "index": 25,
+      "order": 87,
+      "title": "آموزش رایگان تحلیل تکنیکال 86 : هرچی از ترید میشناسی بنداز دور",
+      "durationSeconds": 2760,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=2BluCMI_fOo",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "ondsHizYXwk",
+      "playlistId": "advanced",
+      "index": 26,
+      "order": 88,
+      "title": "آموزش رایگان تحلیل تکنیکال 87 : چگونه بازار پیشبینی کنیم بر اساس پرایس اکشن",
+      "durationSeconds": 1800,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=ondsHizYXwk",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "wldt19DPIoI",
+      "playlistId": "advanced",
+      "index": 27,
+      "order": 89,
+      "title": "آموزش رایگان تحلیل تکنیکال 88 : تحلیل تکنیکال یک دروغ بزرگ !",
+      "durationSeconds": 1080,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=wldt19DPIoI",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "gAowL8Ul1Fw",
+      "playlistId": "advanced",
+      "index": 28,
+      "order": 90,
+      "title": "آموزش رایگان تحلیل تکنیکال 89 : روتین روزانه یک تریدر موفق ارز دیجیتال",
+      "durationSeconds": 2100,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=gAowL8Ul1Fw",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "psychology"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "w7ZVAXdJ4nk",
+      "playlistId": "advanced",
+      "index": 29,
+      "order": 91,
+      "title": "آموزش رایگان تحلیل تکنیکال 90 : هر چی از تحلیل ارزدیجیتال و فارکس میشناسی بنداز دور",
+      "durationSeconds": 2160,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=w7ZVAXdJ4nk",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "FkubOw_zhvQ",
+      "playlistId": "advanced",
+      "index": 30,
+      "order": 92,
+      "title": "آموزش رایگان تحلیل تکنیکال 91 : ۲۰ ویدیویی که قبل از مرگ تریدریت باید ببینی",
+      "durationSeconds": 1500,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=FkubOw_zhvQ",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "pbuX52kbaA0",
+      "playlistId": "advanced",
+      "index": 31,
+      "order": 93,
+      "title": "آموزش رایگان تحلیل تکنیکال 92 : هرچی از حرکت بزرگ نهنگی میشناسی بنداز دور! ( استاپ اردر ها )",
+      "durationSeconds": 2340,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=pbuX52kbaA0",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk",
+        "strategy"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "26K0dJg-4zE",
+      "playlistId": "advanced",
+      "index": 32,
+      "order": 94,
+      "title": "آموزش رایگان تحلیل تکنیکال 93 : هرچی از تحلیل بیت کوین و تحلیل کردن ارز دیجیتال میشناسی بنداز دور!",
+      "durationSeconds": 2580,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=26K0dJg-4zE",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "GRfux45OIUQ",
+      "playlistId": "advanced",
+      "index": 33,
+      "order": 95,
+      "title": "صفر تا صد روانشناسی ترید برای مبتدی تا پیشرفته",
+      "durationSeconds": 2460,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=GRfux45OIUQ",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "psychology"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "xGjqEzXrNr4",
+      "playlistId": "advanced",
+      "index": 34,
+      "order": 96,
+      "title": "آموزش صفر تا صد پیدا کردن کوین های پامپی و دامپی",
+      "durationSeconds": 2040,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=xGjqEzXrNr4",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "foundations"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    },
+    {
+      "id": "OMOQacbaiPs",
+      "playlistId": "advanced",
+      "index": 35,
+      "order": 97,
+      "title": "آموزش رایگان تحلیل تکنیکال 96 : بهترین روش خرید بیت کوین: DCA و میانگین!",
+      "durationSeconds": 1800,
+      "durationApproximate": true,
+      "url": "https://www.youtube.com/watch?v=OMOQacbaiPs",
+      "status": "not_started",
+      "watchedSeconds": 0,
+      "summary": "",
+      "topicIds": [
+        "risk"
+      ],
+      "topicAssignment": "title_only",
+      "coverage": {
+        "transcript": false,
+        "audio": false,
+        "visuals": false,
+        "verified": false
+      },
+      "updatedAt": "2026-11-21T21:41:32.058Z"
+    }
+  ],
+  "notes": [],
+  "workflow": {
+    "phase": "ready",
+    "title": "دفتر یادگیری آماده است؛ مطالعه هنوز شروع نشده",
+    "detail": "۹۷ ویدیو فهرست شده‌اند. داشبورد، یادداشت‌های زمان‌دار، آرشیو تصاویر و نمایش زنده آماده و بررسی شده‌اند. هنوز هیچ درس کاملی مطالعه نشده است.",
+    "next": "مطالعهٔ کامل ویدیوی معرفی و ثبت نخستین یادداشت‌های مستند",
+    "lessonId": "-5oNwNoU3Z0",
+    "updatedAt": "2026-11-21T21:57:12.317Z"
+  },
+  "activity": [
+    {
+      "id": "4ab3e62b-2f9d-44f1-a995-253fbd9839b0",
+      "at": "2026-11-21T21:57:12.317Z",
+      "title": "دفتر یادگیری آماده است؛ مطالعه هنوز شروع نشده",
+      "detail": "۹۷ ویدیو فهرست شده‌اند. داشبورد، یادداشت‌های زمان‌دار، آرشیو تصاویر و نمایش زنده آماده و بررسی شده‌اند. هنوز هیچ درس کاملی مطالعه نشده است.",
+      "type": "status"
+    },
+    {
+      "id": "catalog",
+      "at": "2026-11-21T21:41:32.058Z",
+      "title": "فهرست دوره‌ها ثبت شد",
+      "detail": "۹۷ ویدیو با لینک منبع و مدت نمایش‌داده‌شده در یوتیوب؛ هیچ درس کاملی هنوز مطالعه نشده است.",
+      "type": "catalog"
+    },
+    {
+      "id": "overview",
+      "at": "2026-11-21T21:41:32.058Z",
+      "title": "مسیر کلی آموزش بررسی شد",
+      "detail": "صفحهٔ کانال، توضیحات ویدیوی معرفی و ترتیب سه پلی‌لیست بررسی شد.",
+      "type": "research"
+    }
+  ],
+  "questions": [],
+  "principles": [
+    "هر نکته به ویدیو و زمان منبع متصل می‌شود.",
+    "گفتهٔ آرشیا، یادداشت شخصی و موارد نامطمئن جدا ثبت می‌شوند.",
+    "مثال‌های نموداری همراه تصاویر و ترتیب اتفاقات بررسی می‌شوند.",
+    "درس پس از بررسی متن، صوت لازم، تصاویر و مرور نهایی تکمیل می‌شود."
+  ]
+}
