@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T22:17:39.563Z",
+  "updatedAt": "2026-11-21T22:34:44.777Z",
   "catalogVerifiedAt": "2026-11-21T21:41:32.058Z",
   "channel": {
     "title": "Trade city pro",
@@ -138,20 +138,20 @@
       "durationSeconds": 2179,
       "durationApproximate": false,
       "url": "https://www.youtube.com/watch?v=bev5AR8XYkU",
-      "status": "studying",
-      "watchedSeconds": 2159,
-      "summary": "متن فارسی تمام گفتار آموزشی و خداحافظی تا حدود ۳۵:۵۹ مرور شد. بخش پایانی دربارهٔ تمرین، فشار روانی، بازبینی استراتژی و کاربرد گروه سیگنال ثبت شد. تصویر و صدای پایان و چند عبارت مبهم در بازبینی نهایی‌اند.",
+      "status": "completed",
+      "watchedSeconds": 2179,
+      "summary": "کل ویدیو از ۰۰:۰۰ تا ۳۶:۱۹ با زیرنویس خودکار فارسی اصلی، تطبیق موضعی صدای فارسی و مرور فریم‌ها بررسی شد. گفتار حدود ۳۵:۵۹ پایان می‌یابد و پس از آن کارت پایانی بدون گفتار دیده می‌شود. ۳۱ یادداشت مستند و ۸ یادداشت ابهام ثبت شد. مسیر یادگیری، سرمایهٔ تمرینی، مدیریت سرمایه و ریسک‌به‌ریوارد، ژورنال، قوانین شخصی و ساخت استراتژی محورهای درس‌اند. مثال‌های ژورنال و شکست خطوط شفاهی‌اند و تصویر آموزشی لازم برای فهم آن‌ها در ویدیو وجود ندارد.",
       "topicIds": [
         "foundations"
       ],
       "topicAssignment": "title_only",
       "coverage": {
-        "transcript": false,
-        "audio": false,
-        "visuals": false,
-        "verified": false
+        "transcript": true,
+        "audio": true,
+        "visuals": true,
+        "verified": true
       },
-      "updatedAt": "2026-11-21T22:17:39.557Z"
+      "updatedAt": "2026-11-21T22:22:48.502Z"
     },
     {
       "id": "N3avE-Z6JjE",
@@ -159,23 +159,23 @@
       "index": 3,
       "order": 3,
       "title": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview",
-      "durationSeconds": 2280,
-      "durationApproximate": true,
+      "durationSeconds": 2300,
+      "durationApproximate": false,
       "url": "https://www.youtube.com/watch?v=N3avE-Z6JjE",
-      "status": "not_started",
-      "watchedSeconds": 0,
-      "summary": "",
+      "status": "completed",
+      "watchedSeconds": 2300,
+      "summary": "ویدیو از ۰۰:۰۰ تا پایانِ ۳۸:۲۰ با زیرنویس خودکارِ اصلی فارسی، بازخوانی مستقل صدای فارسی و تطبیق مراحل با فریم‌ها بررسی شد. از حدود ۳۷:۵۰ کارت پایانی دیده می‌شود. ۴۸ یادداشت مستند، ۴ یادداشت ابهام و ۱۰۶ فریم منبع ثبت شد. مسیرهای حساب و نمودار، اندیکاتورها و بازپخش، رسم و اندازه‌گیری، واچ‌لیست و انتشار ایده مطابق رابط ضبط‌شده مستند شدند. فریم‌ها، زمان‌ها و بازشدن فایل‌ها در دفتر بررسی شدند.",
       "topicIds": [
         "foundations"
       ],
       "topicAssignment": "title_only",
       "coverage": {
-        "transcript": false,
-        "audio": false,
-        "visuals": false,
-        "verified": false
+        "transcript": true,
+        "audio": true,
+        "visuals": true,
+        "verified": true
       },
-      "updatedAt": "2026-11-21T21:41:32.058Z"
+      "updatedAt": "2026-11-21T22:34:04.845Z"
     },
     {
       "id": "SiguKsCDAq8",
@@ -3292,7 +3292,7 @@
       "id": "778c75d5-f315-4d5e-95d6-56006846df44",
       "lessonId": "bev5AR8XYkU",
       "title": "پیش‌نیازهای عضویت در گروه خود مدرس",
-      "content": "آرشیا برای درخواست عضویت در گروه خودش دو پیش‌نیاز مطرح می‌کند: دیدن ویدیوی مدیریت سرمایه و دیدن مجموعهٔ آموزش رایگانش.",
+      "content": "آرشیا دیدن ویدیوی مدیریت سرمایه و مجموعهٔ آموزش رایگانش را دو پیش‌نیاز برای درخواست عضویت در گروه خودش می‌داند.",
       "startSeconds": 1961,
       "endSeconds": 1988,
       "kind": "arshia",
@@ -3344,17 +3344,2119 @@
       ],
       "images": [],
       "createdAt": "2026-11-21T22:17:39.546Z"
+    },
+    {
+      "id": "24840061-39d2-4dfc-9fad-fb6608913b96",
+      "lessonId": "bev5AR8XYkU",
+      "title": "مدرک تکنیکال و ادعاهای درآمد شغلی",
+      "content": "آرشیا از مدرکی با نام CFTe و مسیرهای کاری احتمالی می‌گوید و چند مبلغ درآمد ذکر می‌کند. روایت شفاهی برای تعیین اعتبار شغلی، مبلغ حقوق یا فراگیری آن ارقام کافی نیست و در درس شاهدی برایشان ارائه نمی‌شود.",
+      "startSeconds": 425,
+      "endSeconds": 473,
+      "kind": "uncertain",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:20:42.605Z"
+    },
+    {
+      "id": "97b54d88-ad39-4aa9-b24c-cfcc2ef79239",
+      "lessonId": "bev5AR8XYkU",
+      "title": "بازهٔ زمانی و تعداد معامله در مثال افزایش سرمایه",
+      "content": "آرشیا ابتدا می‌گوید طول دورهٔ تمرین به‌خودی‌خود تعیین‌کننده نیست. بعد عبارت «بیشتر از یک ماه» را با حدود ۳۰ تا ۴۰ معامله توضیح می‌دهد. توضیحات رسمی همان ویدیو بر تعداد معاملات تأکید دارند. شرط تقویمی مستقل از تعداد معامله در این بخش روشن نیست.",
+      "startSeconds": 601,
+      "endSeconds": 641,
+      "kind": "uncertain",
+      "topicIds": [
+        "risk"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:20:42.629Z"
+    },
+    {
+      "id": "db557b9a-c217-4bde-9315-6cc2f834b7c5",
+      "lessonId": "bev5AR8XYkU",
+      "title": "ارجاع شفاهی به کارت مدیریت سرمایه",
+      "content": "آرشیا می‌گوید ویدیوی مدیریت سرمایه بالای تصویر چشمک می‌زند و با دست به بالا اشاره می‌کند. در فریم‌های همین بازه عنوان یا کارت مدیریت سرمایه دیده نمی‌شود و دادهٔ عمومی پخش‌کننده در این زمان مقصد آن ارجاع را روشن نمی‌کند.",
+      "startSeconds": 740,
+      "endSeconds": 753,
+      "kind": "uncertain",
+      "topicIds": [
+        "foundations",
+        "risk"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:20:42.640Z"
+    },
+    {
+      "id": "e0a8ce39-178c-4b34-9e48-ff82ad8f02e5",
+      "lessonId": "bev5AR8XYkU",
+      "title": "روایت مدرس از یک ماه با سود استثنایی",
+      "content": "آرشیا استدلال می‌کند که رعایت مدیریت سرمایه با امکان داشتن ماه پربازده سازگار است. برای مثال از تجربهٔ شخصی‌اش عدد ۳۲۰ درصد روی کل سرمایه را در یک ماه نقل می‌کند و تکرار ماهانهٔ آن را رد می‌کند. برای محاسبه یا تأیید این بازده، داده‌ای در درس ارائه نمی‌شود.",
+      "startSeconds": 934,
+      "endSeconds": 972,
+      "kind": "arshia",
+      "topicIds": [
+        "risk",
+        "psychology"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:20:42.657Z"
+    },
+    {
+      "id": "f9c05cef-dd4e-4d3e-a193-ab1349260066",
+      "lessonId": "bev5AR8XYkU",
+      "title": "عبارت شخصی دربارهٔ ریسک‌به‌ریوارد زیر دو",
+      "content": "بازشناسی صدای اصلی نیز در مثال قانون شخصی آرشیا عدد «دو» و فعل «نبندم» را می‌دهد. او مشخص نمی‌کند این آستانه در کدام مرحلهٔ تصمیم اعمال می‌شود و مثالی روی نمودار ارائه نمی‌کند. کاربرد دقیق عبارت در همین درس روشن نیست.",
+      "startSeconds": 1244,
+      "endSeconds": 1253,
+      "kind": "uncertain",
+      "topicIds": [
+        "risk",
+        "strategy"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:20:42.679Z"
+    },
+    {
+      "id": "fa91e07c-66b6-45f3-9a93-12ae54e35345",
+      "lessonId": "bev5AR8XYkU",
+      "title": "ادعای افزایش وین‌ریت و تضمین نتیجه",
+      "content": "آرشیا می‌گوید ژورنال می‌تواند وین‌ریت را بالا ببرد و در جمع‌بندی، موفقیت با رعایت مسیر را تضمین می‌کند. معیار قابل‌اندازه‌گیری موفقیت یا دادهٔ پشتیبان برای این ادعاها در گفتار ارائه نمی‌شود.",
+      "startSeconds": 1702,
+      "endSeconds": 1727,
+      "kind": "uncertain",
+      "topicIds": [
+        "psychology",
+        "strategy"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:20:42.687Z"
+    },
+    {
+      "id": "53b2dddf-c03a-4e02-b339-0f2497b2512e",
+      "lessonId": "bev5AR8XYkU",
+      "title": "ادعای بازده گروه VIP مدرس",
+      "content": "آرشیا از مثبت‌بودن نتیجهٔ ماهانهٔ گروه خودش طی یک سال و چند رقم متفاوت برای ماه‌ها حرف می‌زند. گزارش معامله‌ها یا روش محاسبهٔ این بازده‌ها در درس ارائه نمی‌شود.",
+      "startSeconds": 1881,
+      "endSeconds": 1903,
+      "kind": "uncertain",
+      "topicIds": [
+        "foundations",
+        "risk"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:20:42.697Z"
+    },
+    {
+      "id": "4c4db2a7-8d13-4687-bdfd-945843f37172",
+      "lessonId": "bev5AR8XYkU",
+      "title": "نسبت‌های متفاوت برای ترک بازار",
+      "content": "آرشیا در توصیف دورهٔ ناامیدی از ۹۰ درصد، باقی‌ماندن ۵ نفر از ۱۰ هزار نفر در پنج سال و بعد ۹۵ درصد حرف می‌زند. خودش عدد را تقریبی معرفی می‌کند و در ویدیو مبنا، نمونه یا تعریف مشترکی برای این نسبت‌ها ارائه نمی‌دهد.",
+      "startSeconds": 1489,
+      "endSeconds": 1519,
+      "kind": "uncertain",
+      "topicIds": [
+        "psychology"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:21:39.102Z"
+    },
+    {
+      "id": "62e500a3-6cad-4c60-a9e0-e3c88bd7df96",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "کاربرد نمودار و ابزار پوزیشن در نمایش مدرس",
+      "content": "آرشیا در مقدمه می‌گوید ابزار پوزیشن را برای نمایش روی نمودار می‌گذارد و سفارش‌هایش را جداگانه در نمایشگر دیگر اجرا می‌کند. در ادامهٔ درس روش خواندن ورود، حد ضرر و هدف از همین ابزار را نشان می‌دهد.",
+      "startSeconds": 1,
+      "endSeconds": 26,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "strategy"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:26:00.586Z"
+    },
+    {
+      "id": "f43e2034-bc27-42d6-915e-558f5e149855",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "ورود از صفحهٔ اصلی و بخش‌های سایت",
+      "content": "در رابط ضبط‌شده، Chart در نوار بالا محیط نمودار را باز می‌کند. Markets دسته‌های بازار و بروکرها را نشان می‌دهد. مدرس برای دنبال‌کردن خبرهای یک نماد به News و برای ایده‌های منتشرشده و اسکریپت‌ها به Community اشاره می‌کند.",
+      "startSeconds": 60,
+      "endSeconds": 145,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-f43e2034-bc27-42d6-915e-558f5e149855-0.png",
+          "caption": "01:36 · منوی Markets و دسته‌های بازار در صفحهٔ اصلی.",
+          "seconds": 96
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-f43e2034-bc27-42d6-915e-558f5e149855-1.png",
+          "caption": "02:08 · منوی Community و فهرست گروه‌های محتوایی و اسکریپت‌ها.",
+          "seconds": 128
+        }
+      ],
+      "createdAt": "2026-11-21T22:28:21.460Z"
+    },
+    {
+      "id": "fd04aabb-773d-4489-bb56-ffabfd0c3851",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "مقایسهٔ امکانات حساب‌ها در نسخهٔ ضبط‌شده",
+      "content": "مدرس از Get started صفحهٔ مقایسهٔ پلن‌ها را باز می‌کند و حساب رایگان را برای این آموزش کافی می‌داند. در جدول آن نسخه، تعداد اندیکاتورها، نمودارها، هشدارها، بازه‌های سفارشی و واچ‌لیست از موارد تفاوت پلن‌ها هستند.",
+      "startSeconds": 144,
+      "endSeconds": 182,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-fd04aabb-773d-4489-bb56-ffabfd0c3851-0.png",
+          "caption": "02:40 · جدول تاریخی پلن‌ها و فهرست امکانات کنار هر پلن.",
+          "seconds": 160
+        }
+      ],
+      "createdAt": "2026-11-21T22:28:21.626Z"
+    },
+    {
+      "id": "7c9a543c-e918-4546-a39c-a9537dc638a4",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "ساخت حساب و بازکردن نمودار",
+      "content": "از آیکن حساب وارد Sign up می‌شود، Google را انتخاب می‌کند و پس از تکمیل فرم نام کاربری از Chart وارد محیط تحلیل می‌شود. فرم در همان نمونه نام دارای فاصله را نمی‌پذیرد.",
+      "startSeconds": 194,
+      "endSeconds": 265,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-7c9a543c-e918-4546-a39c-a9537dc638a4-0.png",
+          "caption": "03:20 · صفحهٔ Sign up و گزینه‌های ورود، از جمله Google.",
+          "seconds": 200
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-7c9a543c-e918-4546-a39c-a9537dc638a4-1.png",
+          "caption": "04:24 · نمای اولیهٔ محیط Chart بعد از ثبت‌نام.",
+          "seconds": 264
+        }
+      ],
+      "createdAt": "2026-11-21T22:28:21.839Z"
+    },
+    {
+      "id": "c4eeed0a-0f11-4c89-b0e4-81482762da97",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "تم، ذخیره و اشتراک نمودار",
+      "content": "مدرس در منوی اصلی نمودار تم تیره را فعال می‌کند. Autosave تغییرات چیدمان را ذخیره می‌کند و Sharing به دارندهٔ لینک اجازهٔ مشاهده و کپی می‌دهد. مدرس به Rename، Make a copy و جست‌وجوی سریع هم اشاره می‌کند. کنار Export chart data، راهنمای روی صفحه فایل CSV شامل اطلاعات نمودار انتخاب‌شده، نماد و اندیکاتورها را مشخص می‌کند. مدرس در گفتار از اکسل نام می‌برد.",
+      "startSeconds": 265,
+      "endSeconds": 309,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-c4eeed0a-0f11-4c89-b0e4-81482762da97-0.png",
+          "caption": "04:32 · پس از فعال‌کردن تم تیره، منوی اصلی باز می‌ماند.",
+          "seconds": 272
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-c4eeed0a-0f11-4c89-b0e4-81482762da97-1.png",
+          "caption": "04:48 · نمای منو هنگام اشاره به گزینه‌های ذخیره، اشتراک و کپی.",
+          "seconds": 288
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-c4eeed0a-0f11-4c89-b0e4-81482762da97-2.png",
+          "caption": "05:04 · راهنمای Export chart data و قالب CSV.",
+          "seconds": 304
+        }
+      ],
+      "createdAt": "2026-11-21T22:28:22.139Z"
+    },
+    {
+      "id": "b469303a-8b52-4ecf-ac5d-bb98c9352183",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "پروفایل و تنظیمات حساب",
+      "content": "پروفایل عمومی محل نمایش ایده‌ها، اسکریپت‌ها و دنبال‌کننده‌هاست. در Settings همان پروفایل، مدرس محل اطلاعات عمومی، راه‌های تماس و گزینه‌های امنیت حساب را نشان می‌دهد. بازگشت به Chart از نوار بالا ممکن است.",
+      "startSeconds": 309,
+      "endSeconds": 403,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-b469303a-8b52-4ecf-ac5d-bb98c9352183-0.png",
+          "caption": "05:20 · نمای عمومی پروفایل و زبانه‌های آن.",
+          "seconds": 320
+        }
+      ],
+      "createdAt": "2026-11-21T22:28:22.259Z"
+    },
+    {
+      "id": "abc7ca7a-a879-492d-af6f-47c1d392ecab",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "زبان، پنل رسم و میانبرها",
+      "content": "مدرس در منوی اصلی میان تم، نمایش نوار ابزار رسم، Language، Keyboard shortcuts و Desktop app جابه‌جا می‌شود. پس از تغییر زبان دوباره از همان زیرمنو انگلیسی را انتخاب می‌کند. Shift را میانبر خط‌کش معرفی می‌کند و بعدتر روی نمودار به آن برمی‌گردد.",
+      "startSeconds": 403,
+      "endSeconds": 454,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-abc7ca7a-a879-492d-af6f-47c1d392ecab-0.png",
+          "caption": "07:12 · زیرمنوی زبان پس از تغییر زبان رابط باز شده است.",
+          "seconds": 432
+        }
+      ],
+      "createdAt": "2026-11-21T22:28:22.363Z"
+    },
+    {
+      "id": "10750e63-d983-4637-9625-e6f12368e328",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "جست‌وجوی نماد و انتخاب بازار یا صرافی",
+      "content": "روی نماد بالای نمودار کلیک می‌کند و BTCUSDT را در Symbol Search می‌نویسد. دسته‌ای مثل Stock می‌تواند نتیجهٔ رمزارز را پنهان کند. در All نتیجه‌ها از منابع مختلف برمی‌گردند و نام صرافی به انتخاب نمودار کمک می‌کند. در این نسخه، مدرس با افزودن حرف P به BTCUSDT، عبارت BTCUSDTP را جست‌وجو می‌کند. نتیجه‌ها شامل نمادهای دارای پسوند PERP هستند. او به اختلاف جزئی قیمت بازارها اشاره می‌کند و پس از جست‌وجو به نمودار قبلی خود برمی‌گردد.",
+      "startSeconds": 454,
+      "endSeconds": 533,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-10750e63-d983-4637-9625-e6f12368e328-0.png",
+          "caption": "07:52 · فیلتر Stock هنگام جست‌وجوی نماد رمزارز نتیجه‌ای نشان نمی‌دهد.",
+          "seconds": 472
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-10750e63-d983-4637-9625-e6f12368e328-1.png",
+          "caption": "08:32 · جست‌وجوی BTCUSDT در All و فهرست منابع مختلف.",
+          "seconds": 512
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-10750e63-d983-4637-9625-e6f12368e328-2.png",
+          "caption": "08:40 · نتیجه‌های قرارداد دائم پس از افزودن حرف P به عبارت جست‌وجو.",
+          "seconds": 520
+        }
+      ],
+      "createdAt": "2026-11-21T22:28:22.836Z"
+    },
+    {
+      "id": "8faa6613-d9ea-47ba-b6cc-a66302d31124",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "تایم‌فریم و مدت هر کندل",
+      "content": "از منوی بازهٔ زمانی کنار نماد، مدرس نمودار یک‌دقیقه‌ای، پانزده‌دقیقه‌ای و هفتگی را انتخاب می‌کند. با هر انتخاب، مدتِ متناظر با هر کندل عوض می‌شود. بازه‌های ثانیه‌ای در رابط ضبط‌شده با محدودیت حساب همراه‌اند.",
+      "startSeconds": 533,
+      "endSeconds": 558,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "candles"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8faa6613-d9ea-47ba-b6cc-a66302d31124-0.png",
+          "caption": "08:56 · منوی بازه‌های زمانی با گزینه‌های ثانیه، دقیقه و بازه‌های بلندتر.",
+          "seconds": 536
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8faa6613-d9ea-47ba-b6cc-a66302d31124-1.png",
+          "caption": "09:12 · منوی بازه‌ها روی چارت یک‌دقیقه‌ای پیش از انتخاب بازهٔ دیگر.",
+          "seconds": 552
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8faa6613-d9ea-47ba-b6cc-a66302d31124-2.png",
+          "caption": "09:13 · چارت پس از انتخاب بازهٔ پانزده‌دقیقه‌ای.",
+          "seconds": 553
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:11.146Z"
+    },
+    {
+      "id": "2629a685-2761-4bb8-8412-a7bdf5ed5169",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "نوع نمایش نمودار و انتخاب کندل ژاپنی",
+      "content": "در منوی نوع نمودار بین Line، Candles و چند نمایش دیگر جابه‌جا می‌شود. نمونه‌هایی از Heikin Ashi، Renko، Line Break، Kagi، Point & Figure، Range و Area را می‌بیند. برای آموزش‌های این دوره به Candles برمی‌گردد و دربارهٔ Renko توضیح می‌دهد که نمایش آن بر مبنای گذر زمان نیست.",
+      "startSeconds": 557,
+      "endSeconds": 650,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "candles"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-2629a685-2761-4bb8-8412-a7bdf5ed5169-0.png",
+          "caption": "09:20 · منوی نوع نمودار در نوار بالا.",
+          "seconds": 560
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-2629a685-2761-4bb8-8412-a7bdf5ed5169-1.png",
+          "caption": "10:00 · شکل بلوکی نمایش Renko در همان مثال.",
+          "seconds": 600
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-2629a685-2761-4bb8-8412-a7bdf5ed5169-2.png",
+          "caption": "10:49 · بازگشت به نمایش Candles.",
+          "seconds": 649
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:11.578Z"
+    },
+    {
+      "id": "e941f722-bdaf-4596-9ca4-33174fa06c82",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "تشخیص خودکار الگوهای کندلی و نموداری",
+      "content": "از پنجرهٔ Indicators, Metrics & Strategies، نمونهٔ All Candlestick Patterns برچسب‌هایی مثل Engulfing روی نمودار می‌گذارد. سپس از گروه Chart Patterns نمونهٔ موج الیوت را اضافه می‌کند. مدرس دربارهٔ اتکا به این برچسب‌ها هشدار می‌دهد و شمردن الگو را در این بخش آموزش نمی‌دهد.",
+      "startSeconds": 650,
+      "endSeconds": 704,
+      "kind": "arshia",
+      "topicIds": [
+        "indicators",
+        "candles"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-e941f722-bdaf-4596-9ca4-33174fa06c82-0.png",
+          "caption": "11:04 · انتخاب All Candlestick Patterns در پنجرهٔ اندیکاتورها.",
+          "seconds": 664
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-e941f722-bdaf-4596-9ca4-33174fa06c82-1.png",
+          "caption": "11:28 · خطوط موج الیوت روی چارت در کنار برچسب‌های الگوهای کندلی.",
+          "seconds": 688
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:11.939Z"
+    },
+    {
+      "id": "d15c5b0b-9288-49b1-b860-8f8035d83f5e",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "نمایش، تنظیم و حذف اندیکاتور",
+      "content": "کنار نام اندیکاتور در بالای چارت، چشم برای مخفی‌کردن، ضربدر برای برداشتن و Settings برای تغییر گزینه‌هاست. در تنظیمات All Patterns چند الگو را روشن می‌کند و نمونهٔ نتیجه را در نمودار یک‌دقیقه‌ای می‌بیند.",
+      "startSeconds": 704,
+      "endSeconds": 743,
+      "kind": "arshia",
+      "topicIds": [
+        "indicators",
+        "candles"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-d15c5b0b-9288-49b1-b860-8f8035d83f5e-0.png",
+          "caption": "11:52 · پنجرهٔ All Patterns و کلیدهای فعال یا غیرفعال‌کردن الگوها.",
+          "seconds": 712
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-d15c5b0b-9288-49b1-b860-8f8035d83f5e-1.png",
+          "caption": "12:08 · نتیجهٔ نمایش برچسب‌ها پس از رفتن به نمودار یک‌دقیقه‌ای.",
+          "seconds": 728
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:12.309Z"
+    },
+    {
+      "id": "94309d4c-06b8-4709-8af8-9d49b555e81a",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "جست‌وجوی اندیکاتور و داده‌های مالی",
+      "content": "در جست‌وجوی پنجرهٔ اندیکاتورها نمونه‌های Bollinger Bands، RSI و Ichimoku را وارد می‌کند. در بخش Financials، Total Revenue را برای نماد رمزارز همان نمودار امتحان می‌کند و در مثالش داده‌ای به کار نمی‌گیرد.",
+      "startSeconds": 742,
+      "endSeconds": 786,
+      "kind": "arshia",
+      "topicIds": [
+        "indicators"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-94309d4c-06b8-4709-8af8-9d49b555e81a-0.png",
+          "caption": "12:32 · نتیجه‌های جست‌وجوی RSI در پنجرهٔ اندیکاتورها.",
+          "seconds": 752
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-94309d4c-06b8-4709-8af8-9d49b555e81a-1.png",
+          "caption": "12:56 · بخش Financials در زمان امتحان Total Revenue.",
+          "seconds": 776
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:12.666Z"
+    },
+    {
+      "id": "36ffa63b-1ff5-4234-9297-7cf5178b3ba3",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "اسکریپت جامعه و راهنمای اندیکاتورها",
+      "content": "مدرس اسکریپت سه‌بعدی Moving Averages را از Community Scripts روی نمودار می‌اندازد. از نماد توضیحات کنار نتیجه به صفحهٔ اسکریپت، متن معرفی، کد و دیدگاه‌ها می‌رسد. برای RSI نیز راهنمای داخلی را باز می‌کند که مبانی و تنظیمات ورودی و ظاهر را توضیح می‌دهد.",
+      "startSeconds": 786,
+      "endSeconds": 871,
+      "kind": "arshia",
+      "topicIds": [
+        "indicators"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-36ffa63b-1ff5-4234-9297-7cf5178b3ba3-0.png",
+          "caption": "13:20 · فهرست Community Scripts و ردیف اسکریپت در کنار آیکن توضیح.",
+          "seconds": 800
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-36ffa63b-1ff5-4234-9297-7cf5178b3ba3-1.png",
+          "caption": "13:36 · صفحهٔ اسکریپت و بخش توضیح و کد.",
+          "seconds": 816
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-36ffa63b-1ff5-4234-9297-7cf5178b3ba3-2.png",
+          "caption": "14:16 · راهنمای RSI و مثال تصویری بخش Style در پنل سمت راست.",
+          "seconds": 856
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:13.048Z"
+    },
+    {
+      "id": "661dac87-a34e-430a-958c-dc19592874a4",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "نمونهٔ اسکریپت و استراتژی آماده",
+      "content": "در منوی اندیکاتورها چند نمونهٔ آمادهٔ مبتنی بر حجم یا اسیلاتور را روی نمودار امتحان می‌کند. اضافه شدن چند خروجی یا پنل به چارت را نشان می‌دهد و می‌گوید روش شخصی خودش بر این نمونه‌ها بنا نشده است.",
+      "startSeconds": 871,
+      "endSeconds": 903,
+      "kind": "arshia",
+      "topicIds": [
+        "indicators",
+        "volume",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-661dac87-a34e-430a-958c-dc19592874a4-0.png",
+          "caption": "14:48 · چند خروجی هم‌زمان در پنل‌های پایین نمودار.",
+          "seconds": 888
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:13.166Z"
+    },
+    {
+      "id": "0637b623-984a-49e8-aebd-6e612c975adc",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "ایجاد هشدار از سطح قیمت",
+      "content": "مدرس پنجرهٔ Create Alert را باز می‌کند و از علامت مثبت روی محور قیمت هم به گزینهٔ Add Alert می‌رسد. یک هشدار به حساب نمونه اضافه می‌شود، درخواست بعدی پیام ارتقا می‌آورد و در ادامه اعلان فعال‌شدن هشدار اول را می‌بیند.",
+      "startSeconds": 903,
+      "endSeconds": 953,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-0637b623-984a-49e8-aebd-6e612c975adc-0.png",
+          "caption": "15:04 · پنجرهٔ ایجاد هشدار برای نماد نمودار.",
+          "seconds": 904
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-0637b623-984a-49e8-aebd-6e612c975adc-1.png",
+          "caption": "15:12 · منوی علامت مثبت روی محور قیمت و گزینهٔ افزودن هشدار.",
+          "seconds": 912
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-0637b623-984a-49e8-aebd-6e612c975adc-2.png",
+          "caption": "15:20 · پیشنهاد ارتقا هنگام تلاش برای هشدار دوم در حساب نمونه.",
+          "seconds": 920
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:13.654Z"
+    },
+    {
+      "id": "b275c590-7d74-47c8-bb3d-6669c73542ad",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "تمرین دیدن کندل‌ها با Bar Replay",
+      "content": "در نمودار روزانهٔ نمونه، Bar Replay را روشن می‌کند و نقطه‌ای در گذشته انتخاب می‌کند تا ادامهٔ نمودار پنهان شود. برای تمرین می‌توان همان وضعیت را تحلیل کرد، با Play ادامه را دید و با Pause دوباره توقف کرد. ادعای محدودیت بازه به حساب و رابط همان ضبط مربوط است.",
+      "startSeconds": 930,
+      "endSeconds": 977,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-b275c590-7d74-47c8-bb3d-6669c73542ad-0.png",
+          "caption": "15:53 · روی نمودار روزانه، Replay محل انتخاب نقطهٔ شروع را نشان می‌دهد.",
+          "seconds": 953
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-b275c590-7d74-47c8-bb3d-6669c73542ad-1.png",
+          "caption": "16:00 · نمودار پس از انتخاب نقطهٔ شروع و پنهان‌شدن ادامه.",
+          "seconds": 960
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-b275c590-7d74-47c8-bb3d-6669c73542ad-2.png",
+          "caption": "16:08 · نوار کنترل بازپخش در روند تمرین.",
+          "seconds": 968
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:14.094Z"
+    },
+    {
+      "id": "3164cbfd-07b5-46ea-bdd6-5748ec1595d1",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "چیدمان و تنظیم ظاهر کندل‌ها",
+      "content": "Undo کار قبلی را برمی‌گرداند. تلاش برای چند نمودار هم‌زمان در Layout حساب نمونه با پیام محدودیت روبه‌رو می‌شود. در Chart settings، مدرس در بخش Symbol رنگ Body و Border کندل را تغییر می‌دهد و در Appearance به تنظیم نمایش خطوط زمینه اشاره می‌کند.",
+      "startSeconds": 977,
+      "endSeconds": 1041,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "candles"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-3164cbfd-07b5-46ea-bdd6-5748ec1595d1-0.png",
+          "caption": "16:32 · پیام محدودیت هنگام انتخاب چیدمان چند نمودار.",
+          "seconds": 992
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-3164cbfd-07b5-46ea-bdd6-5748ec1595d1-1.png",
+          "caption": "16:48 · Chart settings در بخش Symbol و پالت رنگ کندل‌ها.",
+          "seconds": 1008
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-3164cbfd-07b5-46ea-bdd6-5748ec1595d1-2.png",
+          "caption": "17:03.500 · بخش Appearance و تنظیم خطوط عمودی و افقی زمینه.",
+          "seconds": 1023
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:14.499Z"
+    },
+    {
+      "id": "6c5a8804-c3e1-44d3-8b35-f987d0666b29",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "گرفتن تصویر نمودار و تمام‌صفحه",
+      "content": "از ابزار تصویر روی نوار بالا می‌توان تصویر نمودار را ذخیره یا کپی کرد، لینک گرفت یا تصویر را در زبانهٔ تازه باز کرد. مدرس یک خروجی تصویری را جداگانه باز می‌کند. کلید Escape برای خروج از نمای تمام‌صفحه به کار می‌رود.",
+      "startSeconds": 1040,
+      "endSeconds": 1084,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-6c5a8804-c3e1-44d3-8b35-f987d0666b29-0.png",
+          "caption": "17:36 · منوی تصویر نمودار در بالای محیط تحلیل.",
+          "seconds": 1056
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-6c5a8804-c3e1-44d3-8b35-f987d0666b29-1.png",
+          "caption": "17:44 · خروجی تصویر نمودار پس از بازشدن جداگانه.",
+          "seconds": 1064
+        }
+      ],
+      "createdAt": "2026-11-21T22:29:14.714Z"
+    },
+    {
+      "id": "83f985eb-9c20-4ad0-9afd-cbeb00100388",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "حالت نشانگر در نوار چپ",
+      "content": "در ابتدای نوار رسم می‌توان حالت نشانگر را عوض کرد. منو گزینه‌های Cross، Dot، Arrow و Eraser را نشان می‌دهد. مدرس پس از امتحان چند حالت به Cross برمی‌گردد.",
+      "startSeconds": 1084,
+      "endSeconds": 1106,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-83f985eb-9c20-4ad0-9afd-cbeb00100388-0.png",
+          "caption": "18:10 · منوی حالت‌های نشانگر با Cross و گزینه‌های دیگر.",
+          "seconds": 1090
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:29.803Z"
+    },
+    {
+      "id": "923f32cf-f3b6-47d4-ab75-6edafe5f3415",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "رسم و تنظیم Trend Line",
+      "content": "Trend Line را از منوی خطوط انتخاب می‌کند و دو نقطه روی نمودار می‌گذارد. Alt+T میانبر همین ابزار است. بعد از رسم، نوار شناور دسترسی به قفل، هشدار و Settings را می‌دهد. مدرس تب Text و تغییر رنگ، ضخامت و خط‌چین از نوار شناور را نشان می‌دهد.",
+      "startSeconds": 1106,
+      "endSeconds": 1155,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-923f32cf-f3b6-47d4-ab75-6edafe5f3415-0.png",
+          "caption": "18:32 · انتخاب Trend Line از منوی خطوط.",
+          "seconds": 1112
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-923f32cf-f3b6-47d4-ab75-6edafe5f3415-1.png",
+          "caption": "18:40 · خطِ رسم‌شده و نوار ابزار شناور آن.",
+          "seconds": 1120
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-923f32cf-f3b6-47d4-ab75-6edafe5f3415-2.png",
+          "caption": "18:48 · تب Text در تنظیمات همان خط.",
+          "seconds": 1128
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:30.161Z"
+    },
+    {
+      "id": "8b3dd12b-705d-432e-87af-e0199a1fcba4",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "تکثیر خط با Clone و Copy",
+      "content": "در منوی نوار ابزار خط، Clone یک نسخهٔ دیگر از همان خط می‌سازد. مدرس Copy را هم امتحان می‌کند و با Ctrl+V یا Paste در منوی کلیک راست، نسخه‌های دیگری روی چارت می‌گذارد.",
+      "startSeconds": 1155,
+      "endSeconds": 1189,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8b3dd12b-705d-432e-87af-e0199a1fcba4-0.png",
+          "caption": "19:22 · گزینه‌های Clone و Copy در منوی خط انتخاب‌شده.",
+          "seconds": 1162
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8b3dd12b-705d-432e-87af-e0199a1fcba4-1.png",
+          "caption": "19:36 · چند نسخه از خط بعد از تکرار Paste.",
+          "seconds": 1176
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:30.403Z"
+    },
+    {
+      "id": "5ae6a2f7-79be-4cdb-a99b-d1f4af2c856d",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "برگرداندن خط مخفی از Object Tree",
+      "content": "روی خط Hide می‌زند. سپس روی نمودار کلیک راست می‌کند، Object Tree را باز می‌کند و نمایش Trend Line را دوباره روشن می‌کند. اشیای رسم‌شده در این فهرست قابل پیدا کردن‌اند.",
+      "startSeconds": 1189,
+      "endSeconds": 1213,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-5ae6a2f7-79be-4cdb-a99b-d1f4af2c856d-0.png",
+          "caption": "20:05 · خط پنهان است و گزینهٔ Object Tree در منوی کلیک راست انتخاب می‌شود.",
+          "seconds": 1205
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-5ae6a2f7-79be-4cdb-a99b-d1f4af2c856d-1.png",
+          "caption": "20:08 · ردیف Trend Line در پنل Object Tree در حالی که خط هنوز پنهان است.",
+          "seconds": 1208
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-5ae6a2f7-79be-4cdb-a99b-d1f4af2c856d-2.png",
+          "caption": "20:10 · همان خط پس از فعال‌کردن نمایش در Object Tree دوباره دیده می‌شود.",
+          "seconds": 1210
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:30.836Z"
+    },
+    {
+      "id": "94054272-8743-44ca-bf64-0591ac5923c3",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "کارهای منوی کلیک راست روی خود نمودار",
+      "content": "منوی کلیک راست روی فضای نمودار گزینه‌هایی برای افزودن نماد به واچ‌لیست، یادداشت متنی، Object Tree، تغییر تم، حذف رسم‌ها یا اندیکاتورها و بازکردن Settings دارد.",
+      "startSeconds": 1212,
+      "endSeconds": 1242,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-94054272-8743-44ca-bf64-0591ac5923c3-0.png",
+          "caption": "20:24 · منوی کلیک راست نمودار هنگام نمایش گزینه‌های تم، حذف و تنظیمات.",
+          "seconds": 1224
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:30.935Z"
+    },
+    {
+      "id": "5034ee9a-0e4a-4636-9b06-d491f0589662",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "خطوط کمکی، اندازه‌گیری و نشانه‌گذاری زمان",
+      "content": "مدرس از منوی خطوط ابزار Arrow، Ray، Info Line و Trend Angle را امتحان می‌کند. Info Line میزان تغییر قیمت، شمار کندل‌ها و زاویه را نمایش می‌دهد. برای حمایت و مقاومت از Horizontal Line مثال می‌زند. Horizontal Ray از نقطهٔ انتخاب‌شده به بعد ادامه دارد، Vertical Line یک زمان را مشخص می‌کند و Cross Line هر دو خط را رسم می‌کند.",
+      "startSeconds": 1242,
+      "endSeconds": 1303,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "levels",
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-5034ee9a-0e4a-4636-9b06-d491f0589662-0.png",
+          "caption": "21:04 · Info Line و جعبهٔ اطلاعات اندازه‌گیری روی نمودار.",
+          "seconds": 1264
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-5034ee9a-0e4a-4636-9b06-d491f0589662-1.png",
+          "caption": "21:36 · نمونهٔ خطوط افقی و عمودی روی چارت.",
+          "seconds": 1296
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:31.241Z"
+    },
+    {
+      "id": "c2c83b7f-a8ff-48b5-918b-c9a6cc12f6b8",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "ساخت کانال موازی و تنظیم محدوده",
+      "content": "Parallel Channel را از همان منوی خطوط باز می‌کند و جهت و پهنای کانال را روی نمودار مشخص می‌کند. در Settings گزینه‌های ادامهٔ خط به چپ یا راست، رنگ خط میانی، پس‌زمینه و Visibility را نشان می‌دهد. سپس کانال با مرز تخت و یک نمونهٔ دیگر از همین گروه را امتحان می‌کند.",
+      "startSeconds": 1303,
+      "endSeconds": 1357,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-c2c83b7f-a8ff-48b5-918b-c9a6cc12f6b8-0.png",
+          "caption": "21:44 · انتخاب Parallel Channel از منوی خطوط.",
+          "seconds": 1304
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-c2c83b7f-a8ff-48b5-918b-c9a6cc12f6b8-1.png",
+          "caption": "21:52 · کانال موازی پس از تعیین جهت و پهنا.",
+          "seconds": 1312
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-c2c83b7f-a8ff-48b5-918b-c9a6cc12f6b8-2.png",
+          "caption": "22:00 · تب Style کانال با گزینه‌های خط میانی، امتداد و پس‌زمینه.",
+          "seconds": 1320
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:31.611Z"
+    },
+    {
+      "id": "487331af-6ae4-477f-a55e-774fec644a0e",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "دسترسی به ابزارهای فیبوناچی، چنگال و گَن",
+      "content": "در گروه فیبوناچی نوار چپ، مدرس Fib Retracement، Pitchfork، Fib Channel، Fib Time Zone و ابزارهای Gann را نشان می‌دهد. روی نمودار خطوط زمانی، نمونه‌ای از ابزار گَن و حلقه‌های فیبوناچی ظاهر می‌شوند. مدرس به نیاز به یادگیری شیوهٔ استفاده از این ابزارها اشاره می‌کند.",
+      "startSeconds": 1358,
+      "endSeconds": 1416,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "fibonacci"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-487331af-6ae4-477f-a55e-774fec644a0e-0.png",
+          "caption": "22:40 · منوی ابزارهای فیبوناچی، چنگال و گَن.",
+          "seconds": 1360
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-487331af-6ae4-477f-a55e-774fec644a0e-1.png",
+          "caption": "22:56 · نمونهٔ رسم ابزار گَن روی نمودار.",
+          "seconds": 1376
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:32.031Z"
+    },
+    {
+      "id": "72134229-efe0-4aec-8c56-2ddec1ca9832",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "پایهٔ رسم و تفسیر نمونهٔ حلقه‌های فیبوناچی",
+      "content": "روی نمودار حلقه‌های فیبوناچی دیده می‌شوند. مدرس هنگام یادآوری روش از Fib Retracement و واکنش‌های زمانی حرف می‌زند، اما مرجع رسم و روش تفسیر واکنش‌ها را روشن نمی‌کند. حلقه‌ها یک نمونهٔ نمایشی ثبت شده‌اند.",
+      "startSeconds": 1388,
+      "endSeconds": 1416,
+      "kind": "uncertain",
+      "topicIds": [
+        "fibonacci"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-72134229-efe0-4aec-8c56-2ddec1ca9832-0.png",
+          "caption": "23:28 · حلقه‌های رنگی و اشارهٔ مدرس به یکی از محل‌های واکنش.",
+          "seconds": 1408
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:32.232Z"
+    },
+    {
+      "id": "55e2e8b2-9366-495c-b334-cd242fb99f3f",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "قلم، شکل‌ها، Path و Curve",
+      "content": "از گروه شکل‌ها، مدرس Brush، Highlighter، Rectangle و Ellipse را امتحان می‌کند. برای پایان رسم Path دوبار کلیک می‌کند. در Curve دو سر منحنی را می‌گذارد و با نقطهٔ میانی شکل آن را تغییر می‌دهد. مثلث، مستطیل چرخیده و قوس را هم در همان گروه نشان می‌دهد.",
+      "startSeconds": 1417,
+      "endSeconds": 1463,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-55e2e8b2-9366-495c-b334-cd242fb99f3f-0.png",
+          "caption": "23:52 · نمونهٔ قلم، هایلایت، مستطیل و بیضی روی نمودار.",
+          "seconds": 1432
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-55e2e8b2-9366-495c-b334-cd242fb99f3f-1.png",
+          "caption": "24:00 · Path چندنقطه‌ای در حال رسم.",
+          "seconds": 1440
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-55e2e8b2-9366-495c-b334-cd242fb99f3f-2.png",
+          "caption": "24:17 · گروه شکل‌ها و ابزارهای Path، Curve و Rotated Rectangle.",
+          "seconds": 1457
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:32.678Z"
+    },
+    {
+      "id": "cb1ba16a-8343-4fce-84cd-33bf2a9965f0",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "یادداشت و برچسب روی نمودار",
+      "content": "در گروه متن، مدرس Text، Note و چند برچسب را نشان می‌دهد. در نمونهٔ نمایشی، نوشته‌ای در نما می‌ماند و دربارهٔ Note معمولی توضیح می‌دهد که با خارج شدن محل آن از محدودهٔ دید، نوشته دیگر دیده نمی‌شود.",
+      "startSeconds": 1462,
+      "endSeconds": 1486,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-cb1ba16a-8343-4fce-84cd-33bf2a9965f0-0.png",
+          "caption": "24:26 · منوی متن و نشانه‌گذاری با گزینه‌های Note، Anchored Note و Signpost.",
+          "seconds": 1466
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-cb1ba16a-8343-4fce-84cd-33bf2a9965f0-1.png",
+          "caption": "24:32 · نوشتهٔ نمونه پس از جابه‌جایی نمای نمودار.",
+          "seconds": 1472
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:32.938Z"
+    },
+    {
+      "id": "c450d3d6-f1a7-4f18-a534-3a804ec01fea",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "ابزار ترسیم الگوها",
+      "content": "در گروه الگوها، نمونه‌های هارمونیک، Head and Shoulders و چند ابزار امواج الیوت دیده می‌شود. مدرس کاربرد این گروه را قرار دادن نشانه‌های الگو روی نمودار معرفی می‌کند.",
+      "startSeconds": 1486,
+      "endSeconds": 1499,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "structure"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-c450d3d6-f1a7-4f18-a534-3a804ec01fea-0.png",
+          "caption": "24:56 · منوی الگوها با گزینه‌های هارمونیک، سر و شانه و انواع امواج الیوت.",
+          "seconds": 1496
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:33.066Z"
+    },
+    {
+      "id": "ef95f684-f208-4b03-87d3-2c0bb5ad93eb",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "نمایش ورود، حد ضرر و هدف با Long Position",
+      "content": "در گروه اندازه‌گیری Long Position را روی نمودار می‌اندازد. ناحیهٔ هدف و حد ضرر در دو سوی سطح ورود دیده می‌شود و برچسب ابزار نسبت ریسک به بازده را نشان می‌دهد. مدرس از این شکل برای مشخص‌کردن سطوح و خواندن نسبت استفاده می‌کند و اجرای سفارش را جدا انجام می‌دهد.",
+      "startSeconds": 1498,
+      "endSeconds": 1510,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "risk",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-ef95f684-f208-4b03-87d3-2c0bb5ad93eb-0.png",
+          "caption": "25:00 · انتخاب Long Position از نوار ابزار چپ.",
+          "seconds": 1500
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-ef95f684-f208-4b03-87d3-2c0bb5ad93eb-1.png",
+          "caption": "25:04 · ابزار روی نمودار با ناحیهٔ هدف، حد ضرر و برچسب نسبت.",
+          "seconds": 1504
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:33.356Z"
+    },
+    {
+      "id": "4287118c-b820-4aac-ad62-fde80404f201",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "اندازه‌گیری زمان و قیمت با Range",
+      "content": "Date Range فاصلهٔ زمانی را نمایش می‌دهد. مثال روزانهٔ مدرس روی نمودار ۲۲۶ کندل و ۲۲۶ روز را نشان می‌دهد. Price Range مقدار و درصد تغییر قیمت را می‌سنجد و Date and Price Range هر دو را در یک ابزار می‌آورد. مدرس می‌گوید رسم Range در تصویر نمودار می‌ماند و خط‌کش موقت Shift در تصویر باقی نمی‌ماند.",
+      "startSeconds": 1510,
+      "endSeconds": 1534,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-4287118c-b820-4aac-ad62-fde80404f201-0.png",
+          "caption": "25:15 · رسم Date Range و برچسب ۲۲۶ کندل و ۲۲۶ روز.",
+          "seconds": 1515
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-4287118c-b820-4aac-ad62-fde80404f201-1.png",
+          "caption": "25:27 · گزینه‌های Price Range و Date and Price Range در منو.",
+          "seconds": 1527
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:33.715Z"
+    },
+    {
+      "id": "6d878790-849c-41cb-9fbb-718f24f73320",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "نمونهٔ Bars Pattern و درج نماد تصویری",
+      "content": "مدرس Bars Pattern را روی بخشی از نمودار امتحان می‌کند و یک مسیر نمونه روی چارت ظاهر می‌شود. سپس از منوی شکلک‌ها آیکن هواپیما را برای نشانه‌گذاری اضافه می‌کند.",
+      "startSeconds": 1534,
+      "endSeconds": 1570,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-6d878790-849c-41cb-9fbb-718f24f73320-0.png",
+          "caption": "25:52 · مسیر نمونهٔ Bars Pattern که مدرس از جهت نمایش آن مطمئن نیست.",
+          "seconds": 1552
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-6d878790-849c-41cb-9fbb-718f24f73320-1.png",
+          "caption": "26:08 · آیکن هواپیما روی نمودار به‌عنوان نشانه‌گذاری نمونه.",
+          "seconds": 1568
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:34.018Z"
+    },
+    {
+      "id": "68a9ccba-a2e6-4a5a-ba9f-d4af132923da",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "جهت نمایش Bars Pattern در نمونه",
+      "content": "مدرس در زمان نمایش مسیر می‌گوید انتظار داشته شکل به طرف دیگری قرار بگیرد و دلیل جهت حاصل را توضیح نمی‌دهد.",
+      "startSeconds": 1548,
+      "endSeconds": 1558,
+      "kind": "uncertain",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-68a9ccba-a2e6-4a5a-ba9f-d4af132923da-0.png",
+          "caption": "25:53 · شکل آبی Bars Pattern در سمت راست نمودار نمونه.",
+          "seconds": 1553
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:34.191Z"
+    },
+    {
+      "id": "b6f7c4c9-63f7-42c0-88b6-ecd325c9f341",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "خط‌کش، آهن‌ربا و پنهان‌کردن یا حذف رسم‌ها",
+      "content": "Shift خط‌کش را فعال می‌کند. ابزار Zoom در نوار چپ قرار دارد و Magnet هنگام رسم نقطه را به کندل می‌چسباند. حالت ماندن در رسم هم تا خاموش شدن فعال می‌ماند. مدرس اول رسم‌ها را با Hide all drawings مخفی می‌کند، دوباره نشان می‌دهد و بعد با گزینهٔ حذف آن‌ها را پاک می‌کند.",
+      "startSeconds": 1570,
+      "endSeconds": 1606,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-b6f7c4c9-63f7-42c0-88b6-ecd325c9f341-0.png",
+          "caption": "26:35 · پس از فعال کردن Hide all drawings، رسم‌ها پنهان شده‌اند.",
+          "seconds": 1595
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-b6f7c4c9-63f7-42c0-88b6-ecd325c9f341-1.png",
+          "caption": "26:39 · پس از خاموش کردن حالت پنهان، رسم‌ها برگشته‌اند.",
+          "seconds": 1599
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-b6f7c4c9-63f7-42c0-88b6-ecd325c9f341-2.png",
+          "caption": "26:42 · نمودار پس از حذف رسم‌ها.",
+          "seconds": 1602
+        }
+      ],
+      "createdAt": "2026-11-21T22:30:34.702Z"
+    },
+    {
+      "id": "8bbb457a-1f41-4bad-99ff-fbd09bbe5102",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "جزئیات نماد و رتبه‌بندی تکنیکال",
+      "content": "بخش Details در ستون راست، وضعیت بازار، محدودهٔ روز، حجم و تغییر در دوره‌های مختلف را می‌آورد. More technicals رتبه‌های Oscillators، Summary و Moving Averages را کنار هم نشان می‌دهد. مدرس بازه را عوض می‌کند تا تغییر نتیجه‌ها را نشان دهد و می‌گوید از این رتبه‌بندی برای تصمیم معاملاتی خودش استفاده نمی‌کند.",
+      "startSeconds": 1606,
+      "endSeconds": 1665,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "indicators",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8bbb457a-1f41-4bad-99ff-fbd09bbe5102-0.png",
+          "caption": "26:57 · جزئیات BTCUSDT شامل محدودهٔ روز و آمار حجم در ستون راست.",
+          "seconds": 1617
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8bbb457a-1f41-4bad-99ff-fbd09bbe5102-1.png",
+          "caption": "27:20 · نمای More technicals با جمع‌بندی جداگانهٔ اسیلاتورها و میانگین‌های متحرک.",
+          "seconds": 1640
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8bbb457a-1f41-4bad-99ff-fbd09bbe5102-2.png",
+          "caption": "27:36 · خروجی رتبه‌بندی پس از رفتن به تایم‌فریم یک‌دقیقه‌ای.",
+          "seconds": 1656
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:02.285Z"
+    },
+    {
+      "id": "db967f05-3f90-4cb1-9048-8b96fac28ac6",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "ساخت واچ‌لیست و علامت‌گذاری نماد",
+      "content": "مدرس نمادهای پیش‌فرض را با ضربدر برمی‌دارد و با دکمهٔ مثبت داخل واچ‌لیست، BTCUSDT و ETHUSDT را می‌افزاید. پرچم قرمز را برای مشخص‌کردن نماد مورد توجه می‌زند. ستون‌ها نماد، آخرین قیمت، مقدار تغییر و درصد تغییر را نشان می‌دهند.",
+      "startSeconds": 1665,
+      "endSeconds": 1706,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-db967f05-3f90-4cb1-9048-8b96fac28ac6-0.png",
+          "caption": "28:00 · پنجرهٔ Add symbol که از دکمهٔ مثبت واچ‌لیست باز شده است.",
+          "seconds": 1680
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-db967f05-3f90-4cb1-9048-8b96fac28ac6-1.png",
+          "caption": "28:16 · هر دو نماد به واچ‌لیست اضافه شده‌اند و BTCUSDT علامت قرمز دارد.",
+          "seconds": 1696
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:02.731Z"
+    },
+    {
+      "id": "1e20d82e-7bce-428d-827b-12b87a718983",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "نمای پیشرفته و ستون‌های واچ‌لیست",
+      "content": "در Advanced View، نمایش دسته‌بندی نمادها و صرافی‌ها را نشان می‌دهد. از منوی سه‌نقطه می‌توان فهرست را کپی کرد، تغییر نام داد یا وارد و صادر کرد. مدرس ستون Volume و تنظیم نمایش لوگو و Ticker یا Description را هم مرور می‌کند.",
+      "startSeconds": 1706,
+      "endSeconds": 1749,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-1e20d82e-7bce-428d-827b-12b87a718983-0.png",
+          "caption": "28:32 · Advanced View با خلاصه و جدول نمادهای واچ‌لیست.",
+          "seconds": 1712
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-1e20d82e-7bce-428d-827b-12b87a718983-1.png",
+          "caption": "28:48 · منوی واچ‌لیست و گزینه‌های مدیریت فهرست و ستون‌ها.",
+          "seconds": 1728
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:03.019Z"
+    },
+    {
+      "id": "9e7ec502-ddfa-4176-b60a-a7b8e5c67da9",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "هشدارها، اخبار نماد و Data Window",
+      "content": "مدرس زبانهٔ Alerts و Headlines را در ستون راست باز می‌کند. Headlines برای نماد فعلی خبرهای مرتبط را می‌آورد. در Data Window پس از تغییر بازه به یک دقیقه، قیمت بازشدن، بیشینه، کمینه، بسته‌شدن و حجم همان کندل را می‌خواند.",
+      "startSeconds": 1749,
+      "endSeconds": 1782,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "candles",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-9e7ec502-ddfa-4176-b60a-a7b8e5c67da9-0.png",
+          "caption": "29:20 · Headlines برای BTCUSDT در ستون راست.",
+          "seconds": 1760
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-9e7ec502-ddfa-4176-b60a-a7b8e5c67da9-1.png",
+          "caption": "29:36 · Data Window با Open، High، Low، Close و حجم کندل یک‌دقیقه‌ای.",
+          "seconds": 1776
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:03.459Z"
+    },
+    {
+      "id": "83e85501-5d9b-496b-9c8b-cb29e6990a03",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "Hotlists و تقویم اقتصادی",
+      "content": "نمای Hotlists در مثالِ بورس‌های آمریکا فهرست نمادهای پربازده، کم‌بازده و پرحجم را نشان می‌دهد. Calendar رویدادها را همراه زمان نمایش می‌دهد. سپس مدرس وارد My Ideas می‌شود که در آن لحظه ایده‌ای ندارد.",
+      "startSeconds": 1782,
+      "endSeconds": 1822,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "volume"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-83e85501-5d9b-496b-9c8b-cb29e6990a03-0.png",
+          "caption": "29:52 · گروه‌های حجم، رشد و افت در Hotlists بازار آمریکا.",
+          "seconds": 1792
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-83e85501-5d9b-496b-9c8b-cb29e6990a03-1.png",
+          "caption": "30:08 · ستون Economic Calendar با زمان و داده‌های رویدادها.",
+          "seconds": 1808
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:04.697Z"
+    },
+    {
+      "id": "f3775a97-6c90-4d67-8645-37806032027e",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "گشودن فرم انتشار ایده و تنظیم دسته‌ها",
+      "content": "از My Ideas و Publish Idea به فرم می‌رسد. رابط ضبط‌شده هنگام تلاش برای انتشار عمومی در بازهٔ زیر ۱۵ دقیقه یا Range کمتر از 10R پیام محدودیت می‌دهد. مدرس عنوان و توضیح، وضعیت Public، نوع Analysis، جهت Short، دسته‌ها و تگ‌ها را در فرم نمونه نشان می‌دهد. فرم اجازهٔ انتخاب حداکثر سه دسته را در این نمونه می‌دهد.",
+      "startSeconds": 1820,
+      "endSeconds": 1885,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-f3775a97-6c90-4d67-8645-37806032027e-0.png",
+          "caption": "30:30 · پیام Resolution Is Too Small To Publish و گزینهٔ انتشار خصوصی.",
+          "seconds": 1830
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-f3775a97-6c90-4d67-8645-37806032027e-1.png",
+          "caption": "30:43 · فرم Publish Idea با فیلد عنوان و بخش تنظیم انتشار.",
+          "seconds": 1843
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-f3775a97-6c90-4d67-8645-37806032027e-2.png",
+          "caption": "31:12 · سه دستهٔ انتخاب‌شده در فرم انتشار نمونه.",
+          "seconds": 1872
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:05.254Z"
+    },
+    {
+      "id": "2e39765e-b5f7-4c81-9172-559948a4fb2c",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "انتشار، بازبینی نتیجه و نگه‌داشتن سابقه",
+      "content": "رابط ابتدا توضیح کوتاه را رد می‌کند و مدرس پس از پر کردن دوبارهٔ توضیح ایده را منتشر می‌کند. در صفحهٔ منتشرشده می‌توان بعداً Play را زد تا ادامهٔ نمودار دیده شود و تحلیل با حرکت بعدی مقایسه شود. نظر، پسند و اشتراک‌گذاری در همان صفحه دیده می‌شوند. مدرس ثبت ایده‌ها را برای ساخت سابقهٔ قابل مرور مفید می‌داند.",
+      "startSeconds": 1884,
+      "endSeconds": 1956,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "strategy",
+        "psychology"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-2e39765e-b5f7-4c81-9172-559948a4fb2c-0.png",
+          "caption": "31:28 · پیام سایت دربارهٔ کوتاه بودن توضیح ایده.",
+          "seconds": 1888
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-2e39765e-b5f7-4c81-9172-559948a4fb2c-1.png",
+          "caption": "32:06 · صفحهٔ ایدهٔ منتشر شده و دکمهٔ Play روی نمودار.",
+          "seconds": 1926
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-2e39765e-b5f7-4c81-9172-559948a4fb2c-2.png",
+          "caption": "32:12 · نمای نتیجه پس از زدن Play در همان مثال.",
+          "seconds": 1932
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:05.799Z"
+    },
+    {
+      "id": "78850c03-68d9-4cae-a6f5-6fc52020e87e",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "امکان حذف ایده بعد از پایان مهلت ویرایش",
+      "content": "در صفحهٔ ایده دکمه‌های Edit و Delete دیده می‌شوند و شمارش‌گر ویرایش در ۳۱:۵۹ حدود ۱۴ دقیقه و ۵۷ ثانیهٔ باقی‌مانده را نشان می‌دهد. مدرس دربارهٔ امکان حذف بعد از این مهلت مطمئن نیست و ویدیو آن وضعیت را نشان نمی‌دهد.",
+      "startSeconds": 1915,
+      "endSeconds": 1925,
+      "kind": "uncertain",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-78850c03-68d9-4cae-a6f5-6fc52020e87e-0.png",
+          "caption": "31:59 · دکمه‌های Edit و Delete و شمارش‌گر باقی‌ماندهٔ زمان ویرایش.",
+          "seconds": 1919
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:06.461Z"
+    },
+    {
+      "id": "4f3dd234-1e13-448f-9fa7-24be58317d76",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "چت عمومی و گفت‌وگوی خصوصی",
+      "content": "برای چت عمومی وارد اتاق BTCUSDT می‌شود و گفت‌وگوی کاربران دربارهٔ همان بازار را نشان می‌دهد. رابط برای نوشتن پیام درخواست تأیید شماره می‌کند. بخش Private chats برای پیام مستقیم به حساب است.",
+      "startSeconds": 1957,
+      "endSeconds": 2000,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-4f3dd234-1e13-448f-9fa7-24be58317d76-0.png",
+          "caption": "32:48 · اتاق عمومی BTCUSDT و سایر گروه‌های گفت‌وگو در ستون راست.",
+          "seconds": 1968
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:34.292Z"
+    },
+    {
+      "id": "8f697321-2958-4fe4-a4e5-52e270ef581f",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "Streams و Notifications در ستون راست",
+      "content": "مدرس از Streams یک پخش زنده در تریدینگ‌ویو و بخش گفت‌وگوی آن را باز می‌کند. سپس به نمودار برمی‌گردد و تب Notifications را مشخص می‌کند. هنگام توضیح نیز نام دو زبانه را اصلاح می‌کند.",
+      "startSeconds": 2000,
+      "endSeconds": 2064,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8f697321-2958-4fe4-a4e5-52e270ef581f-0.png",
+          "caption": "33:36 · پخش زندهٔ نمونه با نمودارهای میزبان و Live chat.",
+          "seconds": 2016
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-8f697321-2958-4fe4-a4e5-52e270ef581f-1.png",
+          "caption": "34:23 · پنل Notifications پس از بازگشت به نمودار.",
+          "seconds": 2063
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:34.747Z"
+    },
+    {
+      "id": "42c167a5-2c7a-4bcd-895c-15b505876871",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "پنل بروکر، دفتر سفارش و Paper Trading",
+      "content": "پنل اتصال به بروکر را از سمت راست باز می‌کند و سپس نردبان سفارش‌های خرید و فروش را می‌بیند. در تلاش برای سفارش، صفحه ورود به حساب بروکر را می‌خواهد. فهرست Trading Panel گزینهٔ Paper Trading را هم نشان می‌دهد. مدرس آموزش دمو را به بخش دیگری موکول می‌کند.",
+      "startSeconds": 2064,
+      "endSeconds": 2117,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "volume",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-42c167a5-2c7a-4bcd-895c-15b505876871-0.png",
+          "caption": "34:31 · پنجرهٔ Connect to broker در کنار محور قیمت.",
+          "seconds": 2071
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-42c167a5-2c7a-4bcd-895c-15b505876871-1.png",
+          "caption": "34:40 · نردبان سفارش خرید و فروش در پنل نماد.",
+          "seconds": 2080
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-42c167a5-2c7a-4bcd-895c-15b505876871-2.png",
+          "caption": "34:59 · درخواست ورود به حساب بروکر و فهرست Trading Panel.",
+          "seconds": 2099
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:35.700Z"
+    },
+    {
+      "id": "365f3f1d-e0d9-4053-a96f-13cb90fb88aa",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "دسترسی دوباره به Object Tree و راهنمای MACD",
+      "content": "مدرس Object Tree را این بار از آیکن نوار راست باز می‌کند. سپس در راهنمای داخلی که پیش‌تر صفحهٔ RSI را نشان می‌داد، MACD را جست‌وجو و توضیح آن را باز می‌کند. هدف این بخش آشنایی با مسیر پیدا کردن راهنمای اندیکاتور است.",
+      "startSeconds": 2117,
+      "endSeconds": 2146,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "indicators"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-365f3f1d-e0d9-4053-a96f-13cb90fb88aa-0.png",
+          "caption": "35:20 · پنل Object Tree از مسیر نوار سمت راست.",
+          "seconds": 2120
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-365f3f1d-e0d9-4053-a96f-13cb90fb88aa-1.png",
+          "caption": "35:33 · جست‌وجوی MACD در پنل راهنما.",
+          "seconds": 2133
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:36.296Z"
+    },
+    {
+      "id": "ac6a2f04-ce72-46d7-9a4b-5b7d6d864604",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "مقیاس لگاریتمی، خودکار و درصدی",
+      "content": "در پایین محور قیمت گزینه‌های log، auto و درصد را مرور می‌کند. مدرس استفاده از نمودار لگاریتمی را ترجیح می‌دهد و توضیح دلیل آن را به درس داو حواله می‌دهد. Auto مقیاس را با نما تطبیق می‌دهد و فعال‌کردن درصد، برچسب محور را به درصد تبدیل می‌کند.",
+      "startSeconds": 2146,
+      "endSeconds": 2183,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-ac6a2f04-ce72-46d7-9a4b-5b7d6d864604-0.png",
+          "caption": "36:00 · منوی محور قیمت با Logarithmic، Percent و Auto.",
+          "seconds": 2160
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-ac6a2f04-ce72-46d7-9a4b-5b7d6d864604-1.png",
+          "caption": "36:08 · نمای نمودار با برچسب‌های درصد روی محور قیمت.",
+          "seconds": 2168
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:36.664Z"
+    },
+    {
+      "id": "9789b540-092d-47a7-a634-949141078902",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "مرجع درصد در مقیاس قیمت",
+      "content": "مدرس ابتدا احتمال می‌دهد مرجع درصد، قیمت بازشدن روز باشد و همان توضیح را پس می‌گیرد. تغییر برچسب محور به درصد در تصویر روشن است. مرجع محاسبهٔ درصد در این ویدیو مشخص نمی‌شود.",
+      "startSeconds": 2163,
+      "endSeconds": 2179,
+      "kind": "uncertain",
+      "topicIds": [
+        "foundations"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-9789b540-092d-47a7-a634-949141078902-0.png",
+          "caption": "36:16 · محور درصدی در زمان پس گرفتن توضیح اولیه.",
+          "seconds": 2176
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:37.046Z"
+    },
+    {
+      "id": "d7600f41-c59f-4a65-8ef5-16e155c68012",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "Text Notes، Pine Editor و Strategy Tester",
+      "content": "در پنل پایین، Text Notes برای نوشتهٔ شخصی است. Pine Editor محیط نوشتن و انتشار اسکریپت را نشان می‌دهد. Strategy Tester برای آزمودن استراتژیِ افزوده‌شده به نمودار به کار می‌رود. در ادامه، مدرس دوباره Trading Panel را برای دیدن گزینه‌های اتصال باز می‌کند.",
+      "startSeconds": 2183,
+      "endSeconds": 2212,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "indicators",
+        "strategy"
+      ],
+      "images": [
+        {
+          "src": "/screenshots/N3avE-Z6JjE-d7600f41-c59f-4a65-8ef5-16e155c68012-0.png",
+          "caption": "36:26 · Text Notes و دکمهٔ ایجاد نوشتهٔ تازه.",
+          "seconds": 2186
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-d7600f41-c59f-4a65-8ef5-16e155c68012-1.png",
+          "caption": "36:32 · Pine Editor و محیط نوشتن اسکریپت.",
+          "seconds": 2192
+        },
+        {
+          "src": "/screenshots/N3avE-Z6JjE-d7600f41-c59f-4a65-8ef5-16e155c68012-2.png",
+          "caption": "36:37 · Strategy Tester و پیام نیاز به افزودن استراتژی روی چارت.",
+          "seconds": 2197
+        }
+      ],
+      "createdAt": "2026-11-21T22:32:37.872Z"
+    },
+    {
+      "id": "d82fb8d9-4e41-4ecd-add0-86653b434f6c",
+      "lessonId": "N3avE-Z6JjE",
+      "title": "جمع‌بندی شفاهی مدرس دربارهٔ تمرین",
+      "content": "مدرس استفاده از راهنمای انگلیسی داخل سایت و ثبت ایده‌های تحلیلی برای مرور بعدی را جمع‌بندی می‌کند. دیدگاه شخصی او این است که دمو فشار روانی معاملهٔ واقعی را بازسازی نمی‌کند. این قسمت گفتاری است و روند دمو روی صفحه اجرا نمی‌شود.",
+      "startSeconds": 2214,
+      "endSeconds": 2258,
+      "kind": "arshia",
+      "topicIds": [
+        "foundations",
+        "psychology"
+      ],
+      "images": [],
+      "createdAt": "2026-11-21T22:32:37.880Z"
     }
   ],
   "workflow": {
     "phase": "working",
-    "title": "مطالعهٔ درس ۱",
-    "detail": "گفتار درس تا پایان خداحافظی مرور و یادداشت شد. بازبینی عددها، نماهای ویدیو و کارت پایانی در جریان است.",
-    "next": "تطبیق نهایی زمان‌ها، ادعاهای عددی و داده‌های دفتر",
-    "lessonId": "bev5AR8XYkU",
-    "updatedAt": "2026-11-21T22:17:39.563Z"
+    "title": "مطالعهٔ درس ۳، داو تئوری",
+    "detail": "در حال دریافت و بررسی منبع اصلی درس.",
+    "next": "بررسی زیرنویس فارسی، گفتار و فریم‌های نمودار",
+    "lessonId": "SiguKsCDAq8",
+    "updatedAt": "2026-11-21T22:34:44.777Z"
   },
   "activity": [
+    {
+      "id": "0e938ce5-8436-4423-979c-35f3ddef8e09",
+      "at": "2026-11-21T22:34:44.777Z",
+      "title": "مطالعهٔ درس ۳، داو تئوری",
+      "detail": "در حال دریافت و بررسی منبع اصلی درس.",
+      "type": "status"
+    },
+    {
+      "id": "568a225b-efdb-44ed-bf89-536e3716823a",
+      "at": "2026-11-21T22:34:04.853Z",
+      "title": "درس ۲ تکمیل شد",
+      "detail": "درس ۲ با پوشش کامل ۳۸:۲۰، ۴۸ یادداشت مستند، ۴ یادداشت ابهام و ۱۰۶ فریم واقعی تکمیل شد.",
+      "type": "status"
+    },
+    {
+      "id": "f8a00377-4332-4864-a15a-72e3f6556806",
+      "at": "2026-11-21T22:34:04.845Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · تکمیل شده",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "ef459c69-b4c9-452d-8963-b96b0962933e",
+      "at": "2026-11-21T22:32:37.902Z",
+      "title": "در حال مطالعهٔ درس ۲، آموزش تریدینگ‌ویو",
+      "detail": "مطالعهٔ کامل و ثبت بخش پایانی انجام شد.",
+      "type": "status"
+    },
+    {
+      "id": "4511a525-a17a-4144-a251-42244d167e6b",
+      "at": "2026-11-21T22:32:37.896Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · نیازمند مرور",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "9c536bc4-2e80-42ed-8780-07c5802b4d59",
+      "at": "2026-11-21T22:32:37.880Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جمع‌بندی شفاهی مدرس دربارهٔ تمرین",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "5d6ac841-3f17-40fd-8643-2e10d8cd0b36",
+      "at": "2026-11-21T22:32:37.872Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "Text Notes، Pine Editor و Strategy Tester",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "81dff4b1-f2a6-4f5e-8fe5-10ba3cb7c30e",
+      "at": "2026-11-21T22:32:37.046Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "مرجع درصد در مقیاس قیمت",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "f8143dcd-31fc-43fc-931d-80656ae8a6ce",
+      "at": "2026-11-21T22:32:36.664Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "مقیاس لگاریتمی، خودکار و درصدی",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "57f70a7c-b83a-4f63-99b1-9cbff64f4d4a",
+      "at": "2026-11-21T22:32:36.296Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "دسترسی دوباره به Object Tree و راهنمای MACD",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "d1f6950d-93fd-4b12-87e2-342a582bc1cd",
+      "at": "2026-11-21T22:32:35.700Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "پنل بروکر، دفتر سفارش و Paper Trading",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "9279f25c-2cb4-4516-96ba-1fac48aaeadf",
+      "at": "2026-11-21T22:32:34.747Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "Streams و Notifications در ستون راست",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "527357ce-192c-48b3-9fcc-de57011c2f73",
+      "at": "2026-11-21T22:32:34.292Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "چت عمومی و گفت‌وگوی خصوصی",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "50984cce-435c-4178-97d2-49d322755146",
+      "at": "2026-11-21T22:32:06.481Z",
+      "title": "در حال مطالعهٔ درس ۲، آموزش تریدینگ‌ویو",
+      "detail": "واچ‌لیست و مراحل انتشار ایده ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "f49c6aa1-8f44-4c60-987f-98a717e0bbf3",
+      "at": "2026-11-21T22:32:06.475Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · در حال مطالعه",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "5722ea18-4cea-4193-baea-e65d4f5ee126",
+      "at": "2026-11-21T22:32:06.461Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "امکان حذف ایده بعد از پایان مهلت ویرایش",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "475688bd-c80f-43db-a84c-41d269a3c37e",
+      "at": "2026-11-21T22:32:05.799Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "انتشار، بازبینی نتیجه و نگه‌داشتن سابقه",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "62e5cddc-98a5-41e8-8a5b-dad54f9b44aa",
+      "at": "2026-11-21T22:32:05.254Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "گشودن فرم انتشار ایده و تنظیم دسته‌ها",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "cf243040-9f7c-47a4-b43b-2b137663d29c",
+      "at": "2026-11-21T22:32:04.697Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "Hotlists و تقویم اقتصادی",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "0c586869-97e1-4a08-83a2-72baf5d04a39",
+      "at": "2026-11-21T22:32:03.459Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "هشدارها، اخبار نماد و Data Window",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "98f218be-b1bf-44a8-bf31-c0c4c01362be",
+      "at": "2026-11-21T22:32:03.019Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نمای پیشرفته و ستون‌های واچ‌لیست",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "c2c7e06b-88e3-43e4-a969-0ad298d735e9",
+      "at": "2026-11-21T22:32:02.731Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ساخت واچ‌لیست و علامت‌گذاری نماد",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "e9bad04a-c509-418c-a231-082b6b3738f8",
+      "at": "2026-11-21T22:32:02.285Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جزئیات نماد و رتبه‌بندی تکنیکال",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "468aab72-2534-43e3-aae3-1141572b1688",
+      "at": "2026-11-21T22:30:34.728Z",
+      "title": "در حال مطالعهٔ درس ۲، آموزش تریدینگ‌ویو",
+      "detail": "فریم‌های رسم خط و کانال، نمایش و حذف اشیا، و اندازه‌گیری ریسک، قیمت و زمان ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "9f0808b2-2745-48fa-8f8b-9ca7a67e464c",
+      "at": "2026-11-21T22:30:34.715Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · در حال مطالعه",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "f40fadaa-6ecd-428e-aa7a-d1ccf10f371e",
+      "at": "2026-11-21T22:30:34.702Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "خط‌کش، آهن‌ربا و پنهان‌کردن یا حذف رسم‌ها",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "6dd5ee91-6dbc-456c-bc0e-79c1a6a1fcd5",
+      "at": "2026-11-21T22:30:34.191Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جهت نمایش Bars Pattern در نمونه",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "7a1843ac-65b3-4a00-9cd5-95b8d630849e",
+      "at": "2026-11-21T22:30:34.018Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نمونهٔ Bars Pattern و درج نماد تصویری",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "52fa12bd-8c79-4d3d-ad38-28a48cae2247",
+      "at": "2026-11-21T22:30:33.715Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "اندازه‌گیری زمان و قیمت با Range",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "a441f372-7d79-4f80-b3e6-d8286bce1269",
+      "at": "2026-11-21T22:30:33.356Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نمایش ورود، حد ضرر و هدف با Long Position",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "83459c6e-7140-4442-bcd6-a85c45f6e6da",
+      "at": "2026-11-21T22:30:33.066Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ابزار ترسیم الگوها",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "42878b26-ea65-4ea4-a171-0a629211c5ab",
+      "at": "2026-11-21T22:30:32.938Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "یادداشت و برچسب روی نمودار",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "16b10649-0fca-4403-8b3d-6f87678ea342",
+      "at": "2026-11-21T22:30:32.678Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "قلم، شکل‌ها، Path و Curve",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "e8c282bb-f559-4d64-b411-f4de657f2683",
+      "at": "2026-11-21T22:30:32.232Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "پایهٔ رسم و تفسیر نمونهٔ حلقه‌های فیبوناچی",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "1736f1a1-0951-468a-b343-bb47f8edc48c",
+      "at": "2026-11-21T22:30:32.031Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "دسترسی به ابزارهای فیبوناچی، چنگال و گَن",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "968cfb87-3f5c-4448-8ab7-7e7c94c8bbfd",
+      "at": "2026-11-21T22:30:31.611Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ساخت کانال موازی و تنظیم محدوده",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "7b8af0c0-500c-4a61-9042-e24fa0d8876a",
+      "at": "2026-11-21T22:30:31.241Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "خطوط کمکی، اندازه‌گیری و نشانه‌گذاری زمان",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "45e79499-19a7-4c13-a521-5558b7aac66c",
+      "at": "2026-11-21T22:30:30.935Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "کارهای منوی کلیک راست روی خود نمودار",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "9f0645d0-5887-4ba5-81c2-64afa7b3e816",
+      "at": "2026-11-21T22:30:30.836Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "برگرداندن خط مخفی از Object Tree",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "a40f058b-acfc-4ab9-ad43-e4eddf171b90",
+      "at": "2026-11-21T22:30:30.403Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تکثیر خط با Clone و Copy",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "cbd04309-fc43-42bc-9002-394314d4c422",
+      "at": "2026-11-21T22:30:30.161Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "رسم و تنظیم Trend Line",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "601d53e6-7fe4-47b6-a1d4-9db7a32fae01",
+      "at": "2026-11-21T22:30:29.803Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "حالت نشانگر در نوار چپ",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "edc53533-b5e9-413c-a5d4-2dbb88c9b475",
+      "at": "2026-11-21T22:29:14.730Z",
+      "title": "در حال مطالعهٔ درس ۲، آموزش تریدینگ‌ویو",
+      "detail": "مراحل منوهای بالای نمودار، از تایم‌فریم تا هشدار و بازپخش، ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "fda481a2-867a-4b9a-8eb1-67f113d98b5a",
+      "at": "2026-11-21T22:29:14.726Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · در حال مطالعه",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "81977e9d-09db-4fed-8c35-77aa4529477b",
+      "at": "2026-11-21T22:29:14.714Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "گرفتن تصویر نمودار و تمام‌صفحه",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "fb2b70e8-c5c2-49e8-be0b-ccaf8460fdd1",
+      "at": "2026-11-21T22:29:14.499Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "چیدمان و تنظیم ظاهر کندل‌ها",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "62fbd294-a6b3-448c-8b69-adf1a76ca2eb",
+      "at": "2026-11-21T22:29:14.094Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تمرین دیدن کندل‌ها با Bar Replay",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "43fc8886-c578-41b7-91ee-a069c81b5068",
+      "at": "2026-11-21T22:29:13.654Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ایجاد هشدار از سطح قیمت",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "8bd93ae4-6a4e-4530-9e19-28d11d371729",
+      "at": "2026-11-21T22:29:13.166Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نمونهٔ اسکریپت و استراتژی آماده",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "c5895dc7-f2da-4cff-8362-ba9035428648",
+      "at": "2026-11-21T22:29:13.048Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "اسکریپت جامعه و راهنمای اندیکاتورها",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "85c76d92-fefd-4451-a18e-ba9664e54568",
+      "at": "2026-11-21T22:29:12.666Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جست‌وجوی اندیکاتور و داده‌های مالی",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "48d3d218-d356-4152-9df1-f7a3ff02094b",
+      "at": "2026-11-21T22:29:12.309Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نمایش، تنظیم و حذف اندیکاتور",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "7ab0a47e-39e5-4c37-aa8e-fccd778d7d16",
+      "at": "2026-11-21T22:29:11.939Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تشخیص خودکار الگوهای کندلی و نموداری",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "b3f02500-08d9-4be8-be85-a7eff25d59b9",
+      "at": "2026-11-21T22:29:11.578Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نوع نمایش نمودار و انتخاب کندل ژاپنی",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "02a3adb2-7c9a-4943-8dab-0e05717d6632",
+      "at": "2026-11-21T22:29:11.146Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تایم‌فریم و مدت هر کندل",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "c300bc46-ccb5-4fbd-9611-606360f63a02",
+      "at": "2026-11-21T22:28:22.915Z",
+      "title": "در حال مطالعهٔ درس ۲، آموزش تریدینگ‌ویو",
+      "detail": "فریم‌ها و یادداشت‌های ورود، حساب و جست‌وجوی نماد ثبت شد.",
+      "type": "status"
+    },
+    {
+      "id": "d2a43ad5-b31c-47e5-841f-3314e1309bf9",
+      "at": "2026-11-21T22:28:22.870Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · در حال مطالعه",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "2bf1cae9-f6ff-4af1-94f1-0297e336a826",
+      "at": "2026-11-21T22:28:22.836Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "جست‌وجوی نماد و انتخاب بازار یا صرافی",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "515ce3bc-9be4-46d2-8ed8-90511ba27c68",
+      "at": "2026-11-21T22:28:22.363Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "زبان، پنل رسم و میانبرها",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "16d544dd-7eb9-408a-83d7-5d0a5acf36a5",
+      "at": "2026-11-21T22:28:22.259Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "پروفایل و تنظیمات حساب",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "9d688c77-4428-4999-adbb-462a7ce45a29",
+      "at": "2026-11-21T22:28:22.139Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "تم، ذخیره و اشتراک نمودار",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "e87356a7-8600-4d67-981d-0ce3f281ab54",
+      "at": "2026-11-21T22:28:21.839Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ساخت حساب و بازکردن نمودار",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "db8d7d4a-38e3-4c0e-bddf-380dd3cd6f56",
+      "at": "2026-11-21T22:28:21.626Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "مقایسهٔ امکانات حساب‌ها در نسخهٔ ضبط‌شده",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "b7c54c21-6602-40de-b210-ace6f5534813",
+      "at": "2026-11-21T22:28:21.460Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ورود از صفحهٔ اصلی و بخش‌های سایت",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "d2ffe21d-9b83-44d9-ab6f-943793cdd9b2",
+      "at": "2026-11-21T22:26:00.617Z",
+      "title": "در حال مطالعهٔ درس ۲، آموزش تریدینگ‌ویو",
+      "detail": "مقدمه ثبت شد و مدت ویدیو ۳۸:۲۰ تأیید شد. اکنون مسیرهای صفحهٔ اصلی، حساب و تنظیمات نمودار بررسی می‌شود.",
+      "type": "status"
+    },
+    {
+      "id": "326b7eb1-5fa6-4ac1-b406-351d66cbf907",
+      "at": "2026-11-21T22:26:00.600Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · در حال مطالعه",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "6b61afb2-7afe-4e44-b80c-d943516b35c5",
+      "at": "2026-11-21T22:26:00.586Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "کاربرد نمودار و ابزار پوزیشن در نمایش مدرس",
+      "type": "note",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "4605a18c-822e-4acd-942f-da5495300d6b",
+      "at": "2026-11-21T22:25:14.379Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · در حال مطالعه",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "6dbb60f2-5007-4d0b-83fe-5506bac78c7f",
+      "at": "2026-11-21T22:24:37.119Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "آموزش رایگان تحلیل تکنیکال پارت ۲ : آموزش تریدینگ ویو Tradingview · در حال مطالعه",
+      "type": "study",
+      "lessonId": "N3avE-Z6JjE"
+    },
+    {
+      "id": "21da5717-6f29-4d97-83ac-01a9e4783507",
+      "at": "2026-11-21T22:23:29.539Z",
+      "title": "در حال مطالعهٔ درس ۲، آموزش تریدینگ‌ویو",
+      "detail": "در حال دریافت ویدیوی منبع و بررسی زیرنویس فارسی.",
+      "type": "status"
+    },
+    {
+      "id": "86dfe345-d994-4ecc-a1c8-bdda488c5337",
+      "at": "2026-11-21T22:22:48.512Z",
+      "title": "درس ۱ تکمیل شد",
+      "detail": "درس ۱ با پوشش کامل ۳۶:۱۹، ۳۱ یادداشت مستند، ۸ یادداشت ابهام و بدون تصویر آموزشی تکمیل شد.",
+      "type": "status"
+    },
+    {
+      "id": "b87a098c-e740-4d59-bdf7-cb623b744fa1",
+      "at": "2026-11-21T22:22:48.502Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "Technical Analysis Training Part 1: Cryptocurrency Trading Roadmap · تکمیل شده",
+      "type": "study",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "f2556201-4d52-4a71-9843-434d637e1487",
+      "at": "2026-11-21T22:21:39.102Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "نسبت‌های متفاوت برای ترک بازار",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "47276cdd-f702-492f-9492-1662100f3a0b",
+      "at": "2026-11-21T22:20:42.715Z",
+      "title": "مطالعهٔ درس ۱",
+      "detail": "پوشش زمانی کامل ۳۶:۱۹ و مرور بصری ثبت شد. نمونه‌های ژورنال، شکست و راهکارها در ویدیو شفاهی‌اند. چند عبارت عددی هنوز در تطبیق نهایی‌اند.",
+      "type": "status"
+    },
+    {
+      "id": "b31e0741-d5de-4c5e-b26b-fe441211891f",
+      "at": "2026-11-21T22:20:42.708Z",
+      "title": "وضعیت درس به‌روز شد",
+      "detail": "Technical Analysis Training Part 1: Cryptocurrency Trading Roadmap · نیازمند مرور",
+      "type": "study",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "57a99492-5154-4ca3-b3bc-77e6fd8bb64a",
+      "at": "2026-11-21T22:20:42.697Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ادعای بازده گروه VIP مدرس",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "4bf362b7-6da0-40e3-95e2-e7758b181589",
+      "at": "2026-11-21T22:20:42.687Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ادعای افزایش وین‌ریت و تضمین نتیجه",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "fdfc15a9-9e4a-4c46-a249-ca6673f6cffb",
+      "at": "2026-11-21T22:20:42.679Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "عبارت شخصی دربارهٔ ریسک‌به‌ریوارد زیر دو",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "0a2d43b4-8075-408a-9002-681fff2338ff",
+      "at": "2026-11-21T22:20:42.657Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "روایت مدرس از یک ماه با سود استثنایی",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "4b565a30-f2f2-440f-9f3d-e94f8968bda4",
+      "at": "2026-11-21T22:20:42.640Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "ارجاع شفاهی به کارت مدیریت سرمایه",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "e21459a3-212e-4723-a855-d78fb3a9d881",
+      "at": "2026-11-21T22:20:42.629Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "بازهٔ زمانی و تعداد معامله در مثال افزایش سرمایه",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
+    {
+      "id": "c5247d55-6f6d-4fdc-b299-67902d2d1a4a",
+      "at": "2026-11-21T22:20:42.605Z",
+      "title": "یادداشت جدید ذخیره شد",
+      "detail": "مدرک تکنیکال و ادعاهای درآمد شغلی",
+      "type": "note",
+      "lessonId": "bev5AR8XYkU"
+    },
     {
       "id": "20409161-ad6d-4094-8266-18b0f1a7aafe",
       "at": "2026-11-21T22:17:39.563Z",
